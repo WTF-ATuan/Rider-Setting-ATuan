@@ -1,0 +1,190 @@
+<scheme name="_@user_Rider Dark" version="142" parent_scheme="Rider Dark">
+  <metaInfo>
+    <property name="created">2021-04-07T17:55:06</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2020.2.5.0.0</property>
+    <property name="modified">2021-09-07T16:12:20</property>
+    <property name="originalScheme">Rider Dark</property>
+  </metaInfo>
+  <colors>
+    <option name="BORDER_LINES_COLOR" value="282828" />
+    <option name="DOCUMENTATION_COLOR" value="282828" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="383838" />
+    <option name="INDENT_GUIDE" value="383838" />
+    <option name="METHOD_SEPARATORS_COLOR" value="383838" />
+    <option name="RIGHT_MARGIN_COLOR" value="383838" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="838380" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="838380" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="838380" />
+    <option name="ScrollBar.Transparent.trackColor" value="838380" />
+    <option name="TEARLINE_COLOR" value="383838" />
+  </colors>
+  <attributes>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffe06e" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e8c42f" />
+      </value>
+    </option>
+    <option name="DEPRECATED_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffe06e" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="293a5f" />
+        <option name="ERROR_STRIPE_COLOR" value="293a5f" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="787878" />
+        <option name="BACKGROUND" value="303030" />
+        <option name="EFFECT_COLOR" value="383838" />
+      </value>
+    </option>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="e8c42f" />
+        <option name="ERROR_STRIPE_COLOR" value="e8c42f" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GRID_IMAGE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="787878" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="353528" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="2c352c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="352c35" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="293434" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="412424" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="8a7f23" />
+        <option name="ERROR_STRIPE_COLOR" value="e8c42f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="BACKGROUND" value="303030" />
+        <option name="EFFECT_COLOR" value="383838" />
+      </value>
+    </option>
+    <option name="JS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="ffd49e" />
+        <option name="BACKGROUND" value="383838" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="6c95eb" />
+      </value>
+    </option>
+    <option name="LESS_INJECTED_CODE">
+      <value>
+        <option name="BACKGROUND" value="303030" />
+        <option name="EFFECT_COLOR" value="383838" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="e8c42f" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f0f0f0" />
+        <option name="BACKGROUND" value="133f2f" />
+      </value>
+    </option>
+    <option name="ReSharper.ST_SUSPICIOUS_TEXT">
+      <value>
+        <option name="EFFECT_COLOR" value="ffe06e" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SQL_EXTERNAL_TOOL">
+      <value>
+        <option name="FOREGROUND" value="bdbdbd" />
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="787878" />
+      </value>
+    </option>
+    <option name="TDIFF_EXCLUDED_COLUMN">
+      <value>
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="666666" />
+      </value>
+    </option>
+    <option name="TDIFF_FUZZY_MATCHED">
+      <value>
+        <option name="FOREGROUND" value="787878" />
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="666666" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="66c3cc" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="66c3cc" />
+      </value>
+    </option>
+    <option name="TS.REGEXP">
+      <value>
+        <option name="FOREGROUND" value="ffd49e" />
+        <option name="BACKGROUND" value="383838" />
+        <option name="EFFECT_COLOR" value="787878" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ffe06e" />
+        <option name="ERROR_STRIPE_COLOR" value="e8c42f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

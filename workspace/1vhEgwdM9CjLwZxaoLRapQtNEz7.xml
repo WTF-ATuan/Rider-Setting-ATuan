@@ -1,0 +1,348 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/MainTests/RotatePathTests/RotatePathTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <folding>
+                <marker date="1627050205718" expanded="true" signature="6:52" ph="..." />
+                <marker date="1627050205718" expanded="true" signature="96:2891" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="126:2889" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="168:325" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="383:686" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="734:930" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="990:1148" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="1234:1390" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="1480:1639" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="1707:1826" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="1894:2015" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="2088:2299" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="2369:2581" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="2641:2733" ph="{...}" />
+                <marker date="1627050205718" expanded="true" signature="2795:2886" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePath.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1066">
+              <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+              <folding>
+                <marker date="1627050155286" expanded="false" signature="6:72" ph="..." />
+                <marker date="1627050155286" expanded="true" signature="106:2405" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="132:1831" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="542:701" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="735:772" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="805:843" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="869:960" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="900:934" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="984:1076" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1016:1050" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1103:1195" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1135:1169" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1234:1530" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1563:1750" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1795:1828" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1882:1973" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="1953:1970" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="2020:2187" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="2125:2184" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="2238:2403" ph="{...}" />
+                <marker date="1627050155286" expanded="true" signature="2349:2400" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePathPresenter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <marker date="1627050290570" expanded="true" signature="6:96" ph="..." />
+                <marker date="1627050290570" expanded="true" signature="130:1590" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="181:1588" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="391:658" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="745:866" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="956:1079" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="1153:1398" ph="{...}" />
+                <marker date="1627050290570" expanded="true" signature="1158:1205" ph="/* 時序 問題 尚未解決 ... */" />
+                <marker date="1627050290570" expanded="true" signature="1461:1585" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePathController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <folding>
+                <marker date="1627050340069" expanded="true" signature="32:77" ph="{...}" />
+                <marker date="1627050340069" expanded="true" signature="68:75" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Application/TestingBinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <marker date="1627050210997" expanded="false" signature="6:98" ph="..." />
+                <marker date="1627050210997" expanded="true" signature="133:617" ph="{...}" />
+                <marker date="1627050210997" expanded="true" signature="181:615" ph="{...}" />
+                <marker date="1627050210997" expanded="true" signature="234:609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="3456" height="1456" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Anitvine" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Main" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Main" type="1045f7f1:UnityExplorerNode" />
+              <item name="RotatePath" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="MainTests" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="MainTests" type="1045f7f1:UnityExplorerNode" />
+              <item name="RotatePathTests" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4115000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17737637" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="15" weight="0.329653" />
+      <window_info anchor="right" id="IL Viewer" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Unit Tests" order="3" visible="true" weight="0.25111046" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotateRoad.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1107">
+          <folding>
+            <marker date="1626954301935" expanded="true" signature="6:159" ph="..." />
+            <marker date="1626954301935" expanded="true" signature="192:2114" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="244:1810" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="521:806" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="686:802" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="832:877" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="904:948" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="975:1021" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1101:1161" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1243:1304" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1345:1416" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1462:1807" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1480:1637" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1513:1632" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1637:1803" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1678:1798" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1866:1962" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="1942:1959" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="2017:2112" ph="{...}" />
+            <marker date="1626954301935" expanded="true" signature="2092:2109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Application/TestingBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1627050210997" expanded="false" signature="6:98" ph="..." />
+            <marker date="1627050210997" expanded="true" signature="133:617" ph="{...}" />
+            <marker date="1627050210997" expanded="true" signature="181:615" ph="{...}" />
+            <marker date="1627050210997" expanded="true" signature="234:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePathPresenter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1627050290570" expanded="true" signature="6:96" ph="..." />
+            <marker date="1627050290570" expanded="true" signature="130:1590" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="181:1588" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="391:658" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="745:866" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="956:1079" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="1153:1398" ph="{...}" />
+            <marker date="1627050290570" expanded="true" signature="1158:1205" ph="/* 時序 問題 尚未解決 ... */" />
+            <marker date="1627050290570" expanded="true" signature="1461:1585" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/MainTests/RotatePathTests/RotatePathTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <marker date="1627050205718" expanded="true" signature="6:52" ph="..." />
+            <marker date="1627050205718" expanded="true" signature="96:2891" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="126:2889" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="168:325" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="383:686" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="734:930" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="990:1148" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="1234:1390" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="1480:1639" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="1707:1826" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="1894:2015" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="2088:2299" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="2369:2581" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="2641:2733" ph="{...}" />
+            <marker date="1627050205718" expanded="true" signature="2795:2886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="22" column="64" lean-forward="true" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
+          <folding>
+            <marker date="1627050155286" expanded="false" signature="6:72" ph="..." />
+            <marker date="1627050155286" expanded="true" signature="106:2405" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="132:1831" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="542:701" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="735:772" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="805:843" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="869:960" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="900:934" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="984:1076" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1016:1050" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1103:1195" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1135:1169" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1234:1530" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1563:1750" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1795:1828" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1882:1973" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="1953:1970" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="2020:2187" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="2125:2184" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="2238:2403" ph="{...}" />
+            <marker date="1627050155286" expanded="true" signature="2349:2400" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/RotatePath/RotatePathController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <marker date="1627050340069" expanded="true" signature="32:77" ph="{...}" />
+            <marker date="1627050340069" expanded="true" signature="68:75" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

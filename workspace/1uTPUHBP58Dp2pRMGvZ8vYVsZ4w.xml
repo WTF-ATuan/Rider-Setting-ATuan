@@ -1,0 +1,319 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1624686869012" expanded="true" signature="46:208" ph="{...}" />
+                <marker date="1624686869012" expanded="true" signature="97:206" ph="{...}" />
+                <marker date="1624686869012" expanded="true" signature="136:145" ph="{...}" />
+                <marker date="1624686869012" expanded="true" signature="194:203" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/IGravity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyMapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding>
+                <marker date="1624691769306" expanded="true" signature="6:52" ph="..." />
+                <marker date="1624691769306" expanded="true" signature="79:1153" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="111:747" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="344:350" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="477:580" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="648:744" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="781:1151" ph="{...}" />
+                <marker date="1624691769306" expanded="true" signature="1036:1148" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyDataModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding>
+                <marker date="1624691795680" expanded="true" signature="45:268" ph="{...}" />
+                <marker date="1624691795680" expanded="true" signature="195:266" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyPresenter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding>
+                <marker date="1624691612389" expanded="false" signature="6:52" ph="..." />
+                <marker date="1624691612389" expanded="true" signature="79:291" ph="{...}" />
+                <marker date="1624691612389" expanded="true" signature="130:289" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Game/GameControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+              <folding>
+                <marker date="1624689733733" expanded="true" signature="6:195" ph="..." />
+                <marker date="1624689733733" expanded="true" signature="219:4482" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="301:4480" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="813:1147" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="838:881" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1182:1258" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1309:1422" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1486:1552" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1606:1663" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1719:1776" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="1824:1951" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2006:2084" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2133:2213" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2261:2332" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2418:2855" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2571:2851" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2608:2803" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="2919:3306" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="3081:3129" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="3355:3829" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="3424:3825" ph="/* foreach(var data in dialogue.dataArray){ ... */" />
+                <marker date="1624689733733" expanded="true" signature="3857:3899" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="3969:4028" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="4060:4147" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="4186:4304" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="4227:4265" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="4344:4407" ph="{...}" />
+                <marker date="1624689733733" expanded="true" signature="4449:4477" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="-14" y="-28" width="3440" height="1440" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="DDD" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="history-1" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4607000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546639" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" weight="0.329653" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" weight="0.329653" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.329653" />
+      <window_info anchor="bottom" id="Terminal" order="4" visible="true" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" weight="0.329653" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Tool/ReverseAnimationContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="984">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <marker date="1624687133660" expanded="false" signature="6:54" ph="..." />
+            <marker date="1624687133660" expanded="true" signature="77:2337" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="141:2325" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="233:1946" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="1176:1720" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="1439:1609" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="1805:1938" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="1835:1877" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="2043:2099" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="2149:2322" ph="{...}" />
+            <marker date="1624687133660" expanded="true" signature="2257:2301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Game/GameControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <marker date="1624689733733" expanded="true" signature="6:195" ph="..." />
+            <marker date="1624689733733" expanded="true" signature="219:4482" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="301:4480" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="813:1147" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="838:881" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1182:1258" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1309:1422" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1486:1552" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1606:1663" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1719:1776" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="1824:1951" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2006:2084" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2133:2213" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2261:2332" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2418:2855" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2571:2851" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2608:2803" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="2919:3306" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="3081:3129" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="3355:3829" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="3424:3825" ph="/* foreach(var data in dialogue.dataArray){ ... */" />
+            <marker date="1624689733733" expanded="true" signature="3857:3899" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="3969:4028" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="4060:4147" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="4186:4304" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="4227:4265" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="4344:4407" ph="{...}" />
+            <marker date="1624689733733" expanded="true" signature="4449:4477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyPresenter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding>
+            <marker date="1624691612389" expanded="false" signature="6:52" ph="..." />
+            <marker date="1624691612389" expanded="true" signature="79:291" ph="{...}" />
+            <marker date="1624691612389" expanded="true" signature="130:289" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyDataModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1624691795680" expanded="true" signature="45:268" ph="{...}" />
+            <marker date="1624691795680" expanded="true" signature="195:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding>
+            <marker date="1624691769306" expanded="true" signature="6:52" ph="..." />
+            <marker date="1624691769306" expanded="true" signature="79:1153" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="111:747" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="344:350" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="477:580" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="648:744" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="781:1151" ph="{...}" />
+            <marker date="1624691769306" expanded="true" signature="1036:1148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <marker date="1624686869012" expanded="true" signature="46:208" ph="{...}" />
+            <marker date="1624686869012" expanded="true" signature="97:206" ph="{...}" />
+            <marker date="1624686869012" expanded="true" signature="136:145" ph="{...}" />
+            <marker date="1624686869012" expanded="true" signature="194:203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/IGravity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueFrom" value="255" />
+    <option name="blueTo" value="255" />
+    <option name="colorAlpha" value="200" />
+    <option name="customBamImageFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2.4\jbr\bin" />
+    <option name="customFlameImageFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2.4\jbr\bin" />
+    <option name="flamesEnabled" value="false" />
+    <option name="gravityFactor" value="15.44" />
+    <option name="greenFrom" value="255" />
+    <option name="hotkeyHeatup" value="false" />
+    <option name="isBamEnabled" value="false" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="keyStrokesPerMinute" value="305" />
+    <option name="redFrom" value="255" />
+    <option name="soundsFolder" value="C:\Program Files\JetBrains\JetBrains Rider 2020.2.4\jbr\bin" />
+    <option name="sparkLife" value="892" />
+    <option name="sparkSize" value="7" />
+    <option name="sparkVelocityFactor" value="3.16" />
+  </component>
+</application>

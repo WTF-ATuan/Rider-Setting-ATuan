@@ -1,0 +1,12 @@
+<application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+    <option name="alwaysCompleteWithEnter" value="false" />
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="hasNotifiedAboutCompletingWithSpace" value="true" />
+  </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseCaseSections" value="true" />
+    <option name="includeBreakCheckboxState" value="true" />
+  </component>
+</application>

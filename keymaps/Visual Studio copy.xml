@@ -1,0 +1,12 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+</keymap>

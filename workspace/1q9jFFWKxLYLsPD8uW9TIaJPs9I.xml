@@ -1,0 +1,525 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Level/LevelControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+              <folding>
+                <marker date="1616503651046" expanded="false" signature="6:385" ph="..." />
+                <marker date="1616503651046" expanded="true" signature="409:6028" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="456:5970" ph="{...}" />
+                <marker date="1616503651046" expanded="false" signature="990:2567" ph="Managers" />
+                <marker date="1616503651046" expanded="false" signature="2571:3047" ph="Action" />
+                <marker date="1616503651046" expanded="true" signature="3218:3255" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="3289:3551" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="3585:3716" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="3626:3712" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="3780:3896" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="3928:4051" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4092:4392" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4442:4526" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4563:4642" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4679:4728" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4763:4837" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="4871:4964" ph="{...}" />
+                <marker date="1616503651046" expanded="false" signature="4968:5967" ph="ActionCollect" />
+                <marker date="1616503651046" expanded="true" signature="5024:5387" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5062:5383" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5427:5457" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5498:5529" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5567:5595" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5635:5665" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5725:5752" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5801:5834" ph="{...}" />
+                <marker date="1616503651046" expanded="true" signature="5914:5953" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraZoomAction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+              <folding>
+                <marker date="1616503964402" expanded="false" signature="6:144" ph="..." />
+                <marker date="1616503964402" expanded="true" signature="169:1553" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="214:1551" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="717:875" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="905:1125" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="1171:1281" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="1310:1438" ph="{...}" />
+                <marker date="1616503964402" expanded="true" signature="1470:1548" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Tool/MineMath.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1616402978593" expanded="false" signature="7:59" ph="..." />
+                <marker date="1616402978593" expanded="true" signature="82:404" ph="{...}" />
+                <marker date="1616402978593" expanded="true" signature="113:402" ph="{...}" />
+                <marker date="1616402978593" expanded="true" signature="199:265" ph="{...}" />
+                <marker date="1616402978593" expanded="true" signature="332:399" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraFollowControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <marker date="1616503264928" expanded="false" signature="7:100" ph="..." />
+                <marker date="1616503264928" expanded="true" signature="125:934" ph="{...}" />
+                <marker date="1616503264928" expanded="true" signature="186:932" ph="{...}" />
+                <marker date="1616503264928" expanded="true" signature="550:597" ph="{...}" />
+                <marker date="1616503264928" expanded="true" signature="626:929" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="43" column="75" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
+              <folding>
+                <marker date="1616503042745" expanded="false" signature="6:66" ph="..." />
+                <marker date="1616503042745" expanded="true" signature="91:1570" ph="{...}" />
+                <marker date="1616503042745" expanded="true" signature="134:1568" ph="{...}" />
+                <marker date="1616503042745" expanded="true" signature="616:663" ph="{...}" />
+                <marker date="1616503042745" expanded="true" signature="700:1008" ph="{...}" />
+                <marker date="1616503042745" expanded="true" signature="1040:1372" ph="{...}" />
+                <marker date="1616503042745" expanded="true" signature="1424:1561" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/TestScript/CharacterSoundData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="9" column="154" selection-start-line="9" selection-start-column="154" selection-end-line="9" selection-end-column="154" />
+              <folding>
+                <marker date="1616499758675" expanded="false" signature="6:110" ph="..." />
+                <marker date="1616499758675" expanded="true" signature="145:568" ph="{...}" />
+                <marker date="1616499758675" expanded="true" signature="305:521" ph="{...}" />
+                <marker date="1616499758675" expanded="true" signature="554:566" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" x="403" y="-8" width="1920" height="1080" extendedState="7" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Sound" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Sound" type="1045f7f1:UnityExplorerNode" />
+              <item name="TestScript" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6683000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25348744" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/SoundData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/SoundEffectBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1614413992071" expanded="false" signature="6:47" ph="..." />
+            <marker date="1614413992071" expanded="true" signature="71:246" ph="{...}" />
+            <marker date="1614413992071" expanded="true" signature="137:189" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/41C3F0DB-5B29-4EE7-952C-69A689436367/80/8c1cab42/AudioSource.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-574">
+          <caret line="160" column="74" selection-start-line="160" selection-start-column="74" selection-end-line="160" selection-end-column="74" />
+          <folding>
+            <marker date="1616502648552" expanded="false" signature="0:313" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1616502648552" expanded="false" signature="321:515" ph="..." />
+            <marker date="1616502648552" expanded="true" signature="538:21775" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="543:635" ph="///   &lt;para&gt;A representation of audio sources in 3D.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="801:21773" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="810:921" ph="///   &lt;para&gt;PanLevel has been deprecated. Use spatialBlend instead.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="1134:1204" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="1182:1198" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="1210:1313" ph="///   &lt;para&gt;Pan has been deprecated. Use panStereo instead.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="1510:1577" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="1555:1571" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="3174:3274" ph="///   &lt;para&gt;The volume of the audio source (0.0 to 1.0).&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="3415:3501" ph="///   &lt;para&gt;The pitch of the audio source.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="3524:3625" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="3631:3716" ph="///   &lt;para&gt;Playback position in seconds.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="3891:3980" ph="///   &lt;para&gt;Playback position in PCM samples.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="4233:4319" ph="///   &lt;para&gt;The default AudioClip to play.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="4496:4618" ph="///   &lt;para&gt;The target group to which the AudioSource should route its signal.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="4868:5114" ph="///   &lt;para&gt;Plays the clip.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="5214:5563" ph="///   &lt;para&gt;Plays the clip with a delay specified in seconds. Users are advised to use this function instead of t ... " />
+            <marker date="1616502648552" expanded="true" signature="5670:5979" ph="///   &lt;para&gt;Plays the clip at a specific time on the absolute time-line that AudioSettings.dspTime reads from.&lt;/p ... " />
+            <marker date="1616502648552" expanded="true" signature="6067:6323" ph="///   &lt;para&gt;Plays an AudioClip, and scales the AudioSource volume by volumeScale.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="6426:6682" ph="///   &lt;para&gt;Plays an AudioClip, and scales the AudioSource volume by volumeScale.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="6768:6981" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="6987:7180" ph="///   &lt;para&gt;Changes the time at which a sound that has already been scheduled to play will start.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="7294:7569" ph="///   &lt;para&gt;Changes the time at which a sound that has already been scheduled to play will end. Notice that depen ... " />
+            <marker date="1616502648552" expanded="true" signature="7681:7760" ph="///   &lt;para&gt;Stops playing the clip.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="7809:7889" ph="///   &lt;para&gt;Pauses playing the clip.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="7976:8080" ph="///   &lt;para&gt;Unpause the paused playback of this AudioSource.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="8169:8267" ph="///   &lt;para&gt;Is the clip playing right now (Read Only)?&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="8394:8593" ph="///   &lt;para&gt;True if all sounds played by the AudioSource (main sound started by Play() or playOnAwake as well as  ... " />
+            <marker date="1616502648552" expanded="true" signature="8721:9032" ph="///   &lt;para&gt;Plays an AudioClip at a given position in world space.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="9185:9496" ph="///   &lt;para&gt;Plays an AudioClip at a given position in world space.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="9606:10083" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="10089:10171" ph="///   &lt;para&gt;Is the audio clip looping?&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="10309:10448" ph="///   &lt;para&gt;This makes the audio source not take into account the volume of the audio listener.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="10602:10733" ph="///   &lt;para&gt;If set to true, the audio source will automatically start playing on awake.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="10878:11087" ph="///   &lt;para&gt;Allows AudioSource to play even though AudioListener.pause is set to true. This is useful for the men ... " />
+            <marker date="1616502648552" expanded="true" signature="11240:11370" ph="///   &lt;para&gt;Whether the Audio Source should be updated in the fixed or dynamic update.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="11541:11703" ph="///   &lt;para&gt;Pans a playing sound in a stereo way (left or right). This only applies to sounds that are Mono or St ... " />
+            <marker date="1616502648552" expanded="true" signature="11881:12092" ph="///   &lt;para&gt;Sets how much this AudioSource is affected by 3D spatialisation calculations (attenuation, doppler et ... " />
+            <marker date="1616502648552" expanded="true" signature="12279:12370" ph="///   &lt;para&gt;Enables or disables spatialization.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="12514:12654" ph="///   &lt;para&gt;Determines if the spatializer effect is inserted before or after the effect filters.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="12809:13085" ph="///   &lt;para&gt;Set the custom curve for the given AudioSourceCurveType.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="13227:13530" ph="///   &lt;para&gt;Get the current custom curve for the given AudioSourceCurveType.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="13653:13831" ph="///   &lt;para&gt;The amount by which the signal from the AudioSource will be mixed into the global reverb associated w ... " />
+            <marker date="1616502648552" expanded="true" signature="13979:14110" ph="///   &lt;para&gt;Bypass effects (Applied from filter components or global listener filters).&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="14257:14492" ph="///   &lt;para&gt;When set global effects on the AudioListener will not be applied to the audio signal generated by the ... " />
+            <marker date="1616502648552" expanded="true" signature="14647:14809" ph="///   &lt;para&gt;When set doesn't route the signal from an AudioSource into the global reverb associated with reverb z ... " />
+            <marker date="1616502648552" expanded="true" signature="14960:15060" ph="///   &lt;para&gt;Sets the Doppler scale for this AudioSource.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="15207:15352" ph="///   &lt;para&gt;Sets the spread angle (in degrees) of a 3d stereo or multichannel sound in speaker space.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="15493:15586" ph="///   &lt;para&gt;Sets the priority of the AudioSource.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="15727:15872" ph="///   &lt;para&gt;Un- / Mutes the AudioSource. Mute sets the volume=0, Un-Mute restore the original volume.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="16010:16142" ph="///   &lt;para&gt;Within the Min distance the AudioSource will cease to grow louder in volume.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="16288:16423" ph="///   &lt;para&gt;(Logarithmic rolloff) MaxDistance is the distance a sound stops attenuating at.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="16569:16680" ph="///   &lt;para&gt;Sets/Gets how the AudioSource attenuates over distance.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="16837:17056" ph="///   &lt;para&gt;Deprecated Version. Returns a block of the currently playing source's output data.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="17243:17387" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="17393:17691" ph="///   &lt;para&gt;Provides a block of the currently playing source's output data.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="17817:18199" ph="///   &lt;para&gt;Deprecated Version. Returns a block of the currently playing source's spectrum data.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="18410:18564" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="18570:18954" ph="///   &lt;para&gt;Provides a block of the currently playing audio source's spectrum data.&lt;/para&gt; ... " />
+            <marker date="1616502648552" expanded="true" signature="19239:19541" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="19255:19411" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="19676:19978" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="19692:19848" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="20121:20431" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="20137:20297" ph="{...}" />
+            <marker date="1616502648552" expanded="true" signature="20437:20853" ph="///   &lt;para&gt;Sets a user-defined parameter of a custom spatializer effect that is attached to an AudioSource.&lt;/par ... " />
+            <marker date="1616502648552" expanded="true" signature="21225:21647" ph="///   &lt;para&gt;Sets a user-defined parameter of a custom ambisonic decoder effect that is attached to an AudioSource ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/SoundManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1616401837020" expanded="false" signature="6:37" ph="..." />
+            <marker date="1616401837020" expanded="true" signature="61:452" ph="{...}" />
+            <marker date="1616401837020" expanded="true" signature="103:450" ph="{...}" />
+            <marker date="1616401837020" expanded="true" signature="245:346" ph="{...}" />
+            <marker date="1616401837020" expanded="true" signature="290:342" ph="{...}" />
+            <marker date="1616401837020" expanded="true" signature="401:447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/25/7f8b28b4/MonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="168" column="23" selection-start-line="168" selection-start-column="23" selection-end-line="168" selection-end-column="23" />
+          <folding>
+            <marker date="1616503083347" expanded="false" signature="0:313" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1616503083347" expanded="false" signature="321:478" ph="..." />
+            <marker date="1616503083347" expanded="true" signature="501:8991" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="506:628" ph="///   &lt;para&gt;MonoBehaviour is the base class from which every Unity script derives.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="829:8989" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="916:1016" ph="///   &lt;para&gt;Is any invoke pending on this MonoBehaviour?&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="1098:1201" ph="///   &lt;para&gt;Cancels all Invoke calls on this MonoBehaviour.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="1287:1467" ph="///   &lt;para&gt;Invokes the method methodName in time seconds.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="1589:1853" ph="///   &lt;para&gt;Invokes the method methodName in time seconds, then repeatedly every repeatRate seconds.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="1934:2190" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="2196:2358" ph="///   &lt;para&gt;Cancels all Invoke calls with name methodName on this behaviour.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="2461:2595" ph="///   &lt;para&gt;Is any invoke on methodName pending?&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="2694:2865" ph="///   &lt;para&gt;Starts a coroutine named methodName.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="2942:3039" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="3045:3216" ph="///   &lt;para&gt;Starts a coroutine named methodName.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="3308:3650" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="3656:3770" ph="///   &lt;para&gt;Starts a Coroutine.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="3827:4131" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="4405:4716" ph="///   &lt;para&gt;Stops the first coroutine named methodName, or the coroutine stored in routine running on this behavi ... " />
+            <marker date="1616503083347" expanded="true" signature="4767:5076" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="5082:5393" ph="///   &lt;para&gt;Stops the first coroutine named methodName, or the coroutine stored in routine running on this behavi ... " />
+            <marker date="1616503083347" expanded="true" signature="5442:5737" ph="{...}" />
+            <marker date="1616503083347" expanded="true" signature="5743:6054" ph="///   &lt;para&gt;Stops the first coroutine named methodName, or the coroutine stored in routine running on this behavi ... " />
+            <marker date="1616503083347" expanded="true" signature="6166:6269" ph="///   &lt;para&gt;Stops all coroutines running on this behaviour.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="6368:6474" ph="///   &lt;para&gt;Disabling this lets you skip the GUI layout phase.&lt;/para&gt; ... " />
+            <marker date="1616503083347" expanded="true" signature="6620:6772" ph="///   &lt;para&gt;Allow a specific instance of a MonoBehaviour to run in edit mode (only available in the editor).&lt;/par ... " />
+            <marker date="1616503083347" expanded="true" signature="7025:7179" ph="///   &lt;para&gt;Logs message to the Unity Console (identical to Debug.Log).&lt;/para&gt; ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/TestScript/CharacterSoundEffect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="3" column="55" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="55" />
+          <folding>
+            <marker date="1616499683737" expanded="true" signature="53:341" ph="{...}" />
+            <marker date="1616499683737" expanded="true" signature="107:339" ph="{...}" />
+            <marker date="1616499683737" expanded="true" signature="232:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/TestScript/CharacterSoundData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" column="154" selection-start-line="9" selection-start-column="154" selection-end-line="9" selection-end-column="154" />
+          <folding>
+            <marker date="1616499758675" expanded="false" signature="6:110" ph="..." />
+            <marker date="1616499758675" expanded="true" signature="145:568" ph="{...}" />
+            <marker date="1616499758675" expanded="true" signature="305:521" ph="{...}" />
+            <marker date="1616499758675" expanded="true" signature="554:566" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Tool/MineMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1616402978593" expanded="false" signature="7:59" ph="..." />
+            <marker date="1616402978593" expanded="true" signature="82:404" ph="{...}" />
+            <marker date="1616402978593" expanded="true" signature="113:402" ph="{...}" />
+            <marker date="1616402978593" expanded="true" signature="199:265" ph="{...}" />
+            <marker date="1616402978593" expanded="true" signature="332:399" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Level/LevelControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="125" column="33" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+          <folding>
+            <marker date="1616503651046" expanded="false" signature="6:385" ph="..." />
+            <marker date="1616503651046" expanded="true" signature="409:6028" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="456:5970" ph="{...}" />
+            <marker date="1616503651046" expanded="false" signature="990:2567" ph="Managers" />
+            <marker date="1616503651046" expanded="false" signature="2571:3047" ph="Action" />
+            <marker date="1616503651046" expanded="true" signature="3218:3255" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="3289:3551" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="3585:3716" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="3626:3712" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="3780:3896" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="3928:4051" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4092:4392" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4442:4526" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4563:4642" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4679:4728" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4763:4837" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="4871:4964" ph="{...}" />
+            <marker date="1616503651046" expanded="false" signature="4968:5967" ph="ActionCollect" />
+            <marker date="1616503651046" expanded="true" signature="5024:5387" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5062:5383" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5427:5457" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5498:5529" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5567:5595" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5635:5665" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5725:5752" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5801:5834" ph="{...}" />
+            <marker date="1616503651046" expanded="true" signature="5914:5953" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraZoomAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+          <folding>
+            <marker date="1616503964402" expanded="false" signature="6:144" ph="..." />
+            <marker date="1616503964402" expanded="true" signature="169:1553" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="214:1551" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="717:875" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="905:1125" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="1171:1281" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="1310:1438" ph="{...}" />
+            <marker date="1616503964402" expanded="true" signature="1470:1548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/SoundEffectExecutor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1616505049514" expanded="true" signature="6:100" ph="..." />
+            <marker date="1616505049514" expanded="true" signature="124:1069" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="185:1067" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="309:418" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="479:785" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="530:594" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="594:781" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="863:1064" ph="{...}" />
+            <marker date="1616505049514" expanded="true" signature="957:1015" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraFollowControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1616503264928" expanded="false" signature="7:100" ph="..." />
+            <marker date="1616503264928" expanded="true" signature="125:934" ph="{...}" />
+            <marker date="1616503264928" expanded="true" signature="186:932" ph="{...}" />
+            <marker date="1616503264928" expanded="true" signature="550:597" ph="{...}" />
+            <marker date="1616503264928" expanded="true" signature="626:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Sound/BaseSoundEffectPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding>
+            <marker date="1616505348171" expanded="false" signature="6:47" ph="..." />
+            <marker date="1616505348171" expanded="true" signature="71:277" ph="{...}" />
+            <marker date="1616505348171" expanded="true" signature="134:275" ph="{...}" />
+            <marker date="1616505348171" expanded="true" signature="212:272" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Camera/CameraManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="43" column="75" selection-start-line="43" selection-start-column="75" selection-end-line="43" selection-end-column="75" />
+          <folding>
+            <marker date="1616503042745" expanded="false" signature="6:66" ph="..." />
+            <marker date="1616503042745" expanded="true" signature="91:1570" ph="{...}" />
+            <marker date="1616503042745" expanded="true" signature="134:1568" ph="{...}" />
+            <marker date="1616503042745" expanded="true" signature="616:663" ph="{...}" />
+            <marker date="1616503042745" expanded="true" signature="700:1008" ph="{...}" />
+            <marker date="1616503042745" expanded="true" signature="1040:1372" ph="{...}" />
+            <marker date="1616503042745" expanded="true" signature="1424:1561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

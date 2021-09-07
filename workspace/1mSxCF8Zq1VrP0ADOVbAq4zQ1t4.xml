@@ -1,0 +1,316 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/AgentCtrl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <marker date="1610290464116" expanded="true" signature="6:211" ph="..." />
+                <marker date="1610290464116" expanded="true" signature="243:2322" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="609:947" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="653:877" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="971:1040" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1069:1608" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1124:1605" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1177:1278" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1298:1601" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1327:1357" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1386:1415" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1444:1475" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1504:1534" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1672:1754" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="1816:1982" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="2022:2056" ph="{...}" />
+                <marker date="1610290464116" expanded="true" signature="2100:2320" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/SwitchModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+              <folding>
+                <marker date="1610296173992" expanded="false" signature="6:132" ph="..." />
+                <marker date="1610296173992" expanded="true" signature="174:596" ph="{...}" />
+                <marker date="1610296173992" expanded="true" signature="323:594" ph="{...}" />
+                <marker date="1610296173992" expanded="true" signature="363:417" ph="{...}" />
+                <marker date="1610296173992" expanded="true" signature="452:504" ph="{...}" />
+                <marker date="1610296173992" expanded="true" signature="539:591" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/ScoreUI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <marker date="1609951546059" expanded="true" signature="6:114" ph="..." />
+                <marker date="1609951546059" expanded="true" signature="152:359" ph="{...}" />
+                <marker date="1609951546059" expanded="true" signature="208:258" ph="{...}" />
+                <marker date="1609951546059" expanded="true" signature="285:357" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/Ball.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="693">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <marker date="1610245329046" expanded="true" signature="6:92" ph="..." />
+                <marker date="1610245329046" expanded="true" signature="164:800" ph="{...}" />
+                <marker date="1610245329046" expanded="true" signature="323:396" ph="{...}" />
+                <marker date="1610245329046" expanded="true" signature="445:534" ph="{...}" />
+                <marker date="1610245329046" expanded="true" signature="492:528" ph="{...}" />
+                <marker date="1610245329046" expanded="true" signature="560:659" ph="{...}" />
+                <marker date="1610245329046" expanded="true" signature="711:793" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/PlayerCtrl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1089">
+              <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+              <folding>
+                <marker date="1609346183000" expanded="true" signature="6:92" ph="..." />
+                <marker date="1609346183000" expanded="true" signature="133:1400" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="326:425" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="426:486" ph="/* 需紀錄float ... */" />
+                <marker date="1609346183000" expanded="true" signature="522:699" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="740:965" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="997:1398" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="1058:1392" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="1129:1254" ph="{...}" />
+                <marker date="1609346183000" expanded="true" signature="1282:1382" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_agentForce</find>
+      <find>EndEpisode</find>
+    </findStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Agents-BasketBall/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="-2149" y="472" width="1920" height="1080" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14594000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2937365" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="6" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="16" />
+      <window_info anchor="right" id="IL Viewer" order="0" />
+      <window_info anchor="right" id="Errors In Solution" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ml-agents@1.7.2-preview/Runtime/Actuators/IActionReceiver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1608687141000" expanded="false" signature="6:51" ph="..." />
+            <marker date="1608687141000" expanded="true" signature="87:10468" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="94:323" ph="/// A structure that wraps the &lt;see cref=&quot;ActionSegment{T}&quot;/&gt;s for a particular &lt;see cref=&quot;IActionReceiver&quot;/&gt; and ... " />
+            <marker date="1608687141000" expanded="true" signature="364:8853" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="379:451" ph="/// An empty action buffer. ... " />
+            <marker date="1608687141000" expanded="true" signature="578:726" ph="/// Holds the Continuous &lt;see cref=&quot;ActionSegment{T}&quot;/&gt; to be used by an &lt;see cref=&quot;IActionReceiver&quot;/&gt;. ... " />
+            <marker date="1608687141000" expanded="true" signature="799:945" ph="/// Holds the Discrete &lt;see cref=&quot;ActionSegment{T}&quot;/&gt; to be used by an &lt;see cref=&quot;IActionReceiver&quot;/&gt;. ... " />
+            <marker date="1608687141000" expanded="true" signature="1014:1606" ph="/// Create an &lt;see cref=&quot;ActionBuffers&quot;/&gt; instance with discrete actions stored as a float array.  This exists ... " />
+            <marker date="1608687141000" expanded="true" signature="1687:1934" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="1944:2354" ph="/// Construct an &lt;see cref=&quot;ActionBuffers&quot;/&gt; instance with the continuous and discrete actions that will ... " />
+            <marker date="1608687141000" expanded="true" signature="2552:2958" ph="/// Construct an &lt;see cref=&quot;ActionBuffers&quot;/&gt; instance with the continuous and discrete actions that will ... " />
+            <marker date="1608687141000" expanded="true" signature="3063:3181" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="3191:3481" ph="/// Construct an &lt;see cref=&quot;ActionBuffers&quot;/&gt; instance with &lt;see cref=&quot;ActionSpec&quot;/&gt;. All values are initialized t ... " />
+            <marker date="1608687141000" expanded="true" signature="3698:3710" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="3720:4228" ph="/// Create an &lt;see cref=&quot;ActionBuffers&quot;/&gt; instance with ActionSpec and all actions stored as a float array. ... " />
+            <marker date="1608687141000" expanded="true" signature="4321:5784" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="4364:4436" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="5072:5272" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="5323:5687" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="5489:5592" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="5794:5944" ph="/// Clear the &lt;see cref=&quot;ContinuousActions&quot;/&gt; and &lt;see cref=&quot;DiscreteActions&quot;/&gt; segments to be all zeros. ... " />
+            <marker date="1608687141000" expanded="true" signature="5972:6068" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6078:6239" ph="/// Check if the &lt;see cref=&quot;ActionBuffers&quot;/&gt; is empty. ... " />
+            <marker date="1608687141000" expanded="true" signature="6269:6366" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6441:6745" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6492:6550" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6814:6980" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6846:6970" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="6990:7572" ph="/// Packs the continuous and discrete actions into one float array.  The array passed into this method ... " />
+            <marker date="1608687141000" expanded="true" signature="7683:8847" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="8185:8468" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="8513:8565" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="8610:8837" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="8859:9001" ph="/// An interface that describes an object that can receive actions from a Reinforcement Learning network. ... " />
+            <marker date="1608687141000" expanded="true" signature="9038:10466" ph="{...}" />
+            <marker date="1608687141000" expanded="true" signature="9053:9460" ph="/// Method called in order too allow object to execute actions based on the ... " />
+            <marker date="1608687141000" expanded="true" signature="9530:10390" ph="/// Implement `WriteDiscreteActionMask()` to modify the masks for discrete ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/AgentCtrl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <marker date="1610290464116" expanded="true" signature="6:211" ph="..." />
+            <marker date="1610290464116" expanded="true" signature="243:2322" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="609:947" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="653:877" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="971:1040" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1069:1608" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1124:1605" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1177:1278" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1298:1601" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1327:1357" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1386:1415" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1444:1475" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1504:1534" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1672:1754" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="1816:1982" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="2022:2056" ph="{...}" />
+            <marker date="1610290464116" expanded="true" signature="2100:2320" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/ScoreUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <marker date="1609951546059" expanded="true" signature="6:114" ph="..." />
+            <marker date="1609951546059" expanded="true" signature="152:359" ph="{...}" />
+            <marker date="1609951546059" expanded="true" signature="208:258" ph="{...}" />
+            <marker date="1609951546059" expanded="true" signature="285:357" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/Ball.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <marker date="1610245329046" expanded="true" signature="6:92" ph="..." />
+            <marker date="1610245329046" expanded="true" signature="164:800" ph="{...}" />
+            <marker date="1610245329046" expanded="true" signature="323:396" ph="{...}" />
+            <marker date="1610245329046" expanded="true" signature="445:534" ph="{...}" />
+            <marker date="1610245329046" expanded="true" signature="492:528" ph="{...}" />
+            <marker date="1610245329046" expanded="true" signature="560:659" ph="{...}" />
+            <marker date="1610245329046" expanded="true" signature="711:793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/PlayerCtrl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1089">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
+          <folding>
+            <marker date="1609346183000" expanded="true" signature="6:92" ph="..." />
+            <marker date="1609346183000" expanded="true" signature="133:1400" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="326:425" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="426:486" ph="/* 需紀錄float ... */" />
+            <marker date="1609346183000" expanded="true" signature="522:699" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="740:965" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="997:1398" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="1058:1392" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="1129:1254" ph="{...}" />
+            <marker date="1609346183000" expanded="true" signature="1282:1382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ATuan/Scripts/SwitchModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
+          <folding>
+            <marker date="1610296173992" expanded="false" signature="6:132" ph="..." />
+            <marker date="1610296173992" expanded="true" signature="174:596" ph="{...}" />
+            <marker date="1610296173992" expanded="true" signature="323:594" ph="{...}" />
+            <marker date="1610296173992" expanded="true" signature="363:417" ph="{...}" />
+            <marker date="1610296173992" expanded="true" signature="452:504" ph="{...}" />
+            <marker date="1610296173992" expanded="true" signature="539:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

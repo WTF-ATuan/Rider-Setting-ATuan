@@ -1,0 +1,219 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+              <folding>
+                <marker date="1620204155512" expanded="false" signature="6:156" ph="..." />
+                <marker date="1620204155512" expanded="true" signature="183:3204" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="240:3202" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="662:891" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="719:867" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="922:1021" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1088:1124" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1209:1251" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1318:1641" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1361:1384" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1496:1590" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1531:1585" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="1645:1811" ph="/* 對話觸發後 流程 ... */" />
+                <marker date="1620204155512" expanded="true" signature="1860:2067" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2194:2641" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2287:2637" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2396:2540" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2556:2632" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2736:2904" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2765:2900" ph="{...}" />
+                <marker date="1620204155512" expanded="true" signature="2780:2812" ph="..." />
+                <marker date="1620204155512" expanded="true" signature="2838:2895" ph="..." />
+                <marker date="1620204155512" expanded="true" signature="2844:2883" ph="..." />
+                <marker date="1620204155512" expanded="true" signature="2958:3140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="-8" y="-8" width="2576" height="1456" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Dialogue" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7749000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550817" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueForNpc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <marker date="1620196596593" expanded="false" signature="6:81" ph="..." />
+            <marker date="1620196596593" expanded="true" signature="108:264" ph="{...}" />
+            <marker date="1620196596593" expanded="true" signature="236:262" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueForCharacter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1620196586444" expanded="false" signature="6:102" ph="..." />
+            <marker date="1620196586444" expanded="true" signature="129:315" ph="{...}" />
+            <marker date="1620196586444" expanded="true" signature="275:313" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/RichTextTag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="4" column="71" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1620198093306" expanded="false" signature="6:47" ph="..." />
+            <marker date="1620198093306" expanded="true" signature="74:337" ph="{...}" />
+            <marker date="1620198093306" expanded="true" signature="140:335" ph="{...}" />
+            <marker date="1620198093306" expanded="true" signature="301:332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
+          <folding>
+            <marker date="1620196736310" expanded="true" signature="6:100" ph="..." />
+            <marker date="1620196736310" expanded="true" signature="127:1523" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="172:1521" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="651:736" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="770:1312" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="820:1024" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="922:1019" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1080:1308" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1194:1303" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1356:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="43" column="72" selection-start-line="43" selection-start-column="72" selection-end-line="43" selection-end-column="72" />
+          <folding>
+            <marker date="1620204155512" expanded="false" signature="6:156" ph="..." />
+            <marker date="1620204155512" expanded="true" signature="183:3204" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="240:3202" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="662:891" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="719:867" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="922:1021" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1088:1124" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1209:1251" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1318:1641" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1361:1384" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1496:1590" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1531:1585" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="1645:1811" ph="/* 對話觸發後 流程 ... */" />
+            <marker date="1620204155512" expanded="true" signature="1860:2067" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2194:2641" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2287:2637" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2396:2540" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2556:2632" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2736:2904" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2765:2900" ph="{...}" />
+            <marker date="1620204155512" expanded="true" signature="2780:2812" ph="..." />
+            <marker date="1620204155512" expanded="true" signature="2838:2895" ph="..." />
+            <marker date="1620204155512" expanded="true" signature="2844:2883" ph="..." />
+            <marker date="1620204155512" expanded="true" signature="2958:3140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

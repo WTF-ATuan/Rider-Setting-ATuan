@@ -1,0 +1,211 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineLearning/Core/Monitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1244">
+              <caret line="190" column="69" lean-forward="true" selection-start-line="190" selection-start-column="69" selection-end-line="190" selection-end-column="69" />
+              <folding>
+                <marker date="1608690195141" expanded="true" signature="6:119" ph="..." />
+                <marker date="1608690195141" expanded="true" signature="122:491" ph="/// The type of monitor the information must be displayed in. ... " />
+                <marker date="1608690195141" expanded="true" signature="516:560" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="562:669" ph="/// Monitor is used to display information. Use the log function to add ... " />
+                <marker date="1608690195141" expanded="true" signature="707:12833" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="805:920" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="1402:2062" ph="/// Use the Monitor.Log static function to attach information to a transform. ... " />
+                <marker date="1608690195141" expanded="true" signature="2221:3451" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="2259:2348" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="2377:2436" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="2496:2601" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="2719:2797" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="2842:3295" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3110:3285" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3308:3445" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3457:3634" ph="/// Remove a value from a monitor ... " />
+                <marker date="1608690195141" expanded="true" signature="3700:4194" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3734:3793" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3851:4187" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="3926:4177" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4068:4163" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4200:4321" ph="/// Remove all information from a monitor ... " />
+                <marker date="1608690195141" expanded="true" signature="4379:4612" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4413:4472" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4530:4601" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4618:4756" ph="/// Use SetActive to enable or disable the Monitor via script ... " />
+                <marker date="1608690195141" expanded="true" signature="4803:4963" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="4833:4922" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5008:5354" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5098:5249" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5402:5876" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5420:5569" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5592:5603" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5615:5806" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5670:5795" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5829:5840" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5894:11996" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="5926:6004" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="6115:11990" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="6157:6266" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="6619:7067" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="7276:7330" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="7561:11980" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="7849:8301" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="8387:9515" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="8526:8641" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="8666:8891" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="9040:9189" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="9599:10541" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="9795:10521" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="9966:10119" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="10624:11940" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="10844:10940" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="10978:11216" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="11241:11921" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="11325:11898" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="12027:12830" ph="{...}" />
+                <marker date="1608690195141" expanded="true" signature="12416:12754" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.MachineLearningRoguelike-master/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550817" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineLearning/Core/Monitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1244">
+          <caret line="190" column="69" lean-forward="true" selection-start-line="190" selection-start-column="69" selection-end-line="190" selection-end-column="69" />
+          <folding>
+            <marker date="1608690195141" expanded="true" signature="6:119" ph="..." />
+            <marker date="1608690195141" expanded="true" signature="122:491" ph="/// The type of monitor the information must be displayed in. ... " />
+            <marker date="1608690195141" expanded="true" signature="516:560" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="562:669" ph="/// Monitor is used to display information. Use the log function to add ... " />
+            <marker date="1608690195141" expanded="true" signature="707:12833" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="805:920" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="1402:2062" ph="/// Use the Monitor.Log static function to attach information to a transform. ... " />
+            <marker date="1608690195141" expanded="true" signature="2221:3451" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="2259:2348" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="2377:2436" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="2496:2601" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="2719:2797" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="2842:3295" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3110:3285" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3308:3445" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3457:3634" ph="/// Remove a value from a monitor ... " />
+            <marker date="1608690195141" expanded="true" signature="3700:4194" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3734:3793" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3851:4187" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="3926:4177" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4068:4163" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4200:4321" ph="/// Remove all information from a monitor ... " />
+            <marker date="1608690195141" expanded="true" signature="4379:4612" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4413:4472" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4530:4601" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4618:4756" ph="/// Use SetActive to enable or disable the Monitor via script ... " />
+            <marker date="1608690195141" expanded="true" signature="4803:4963" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="4833:4922" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5008:5354" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5098:5249" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5402:5876" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5420:5569" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5592:5603" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5615:5806" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5670:5795" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5829:5840" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5894:11996" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="5926:6004" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="6115:11990" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="6157:6266" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="6619:7067" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="7276:7330" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="7561:11980" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="7849:8301" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="8387:9515" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="8526:8641" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="8666:8891" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="9040:9189" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="9599:10541" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="9795:10521" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="9966:10119" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="10624:11940" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="10844:10940" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="10978:11216" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="11241:11921" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="11325:11898" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="12027:12830" ph="{...}" />
+            <marker date="1608690195141" expanded="true" signature="12416:12754" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

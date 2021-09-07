@@ -1,0 +1,238 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/Holography.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <folding>
+                <marker date="1624531528396" expanded="false" signature="6:34" ph="..." />
+                <marker date="1624531528396" expanded="true" signature="61:646" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="87:579" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="222:251" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="281:294" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="375:489" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="545:576" ph="{...}" />
+                <marker date="1624531528396" expanded="true" signature="609:644" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-56">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+              <folding>
+                <marker date="1624436323285" expanded="false" signature="6:105" ph="..." />
+                <marker date="1624436323285" expanded="true" signature="132:1384" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="178:1382" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="334:801" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="377:797" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="412:489" ph="..." />
+                <marker date="1624436323285" expanded="true" signature="523:598" ph="..." />
+                <marker date="1624436323285" expanded="true" signature="631:707" ph="..." />
+                <marker date="1624436323285" expanded="true" signature="720:792" ph="..." />
+                <marker date="1624436323285" expanded="true" signature="882:981" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="1043:1130" ph="{...}" />
+                <marker date="1624436323285" expanded="true" signature="1178:1379" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyPresenter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+              <folding>
+                <marker date="1624532013155" expanded="true" signature="45:105" ph="{...}" />
+                <marker date="1624532013155" expanded="true" signature="96:103" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyDataModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1624531471449" expanded="true" signature="45:233" ph="{...}" />
+                <marker date="1624531471449" expanded="true" signature="195:231" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter3" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter3" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter3-ExtraScript" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="909000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22061001" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/IMirror.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <marker date="1623227819686" expanded="true" signature="25:91" ph="{...}" />
+            <marker date="1623227819686" expanded="true" signature="52:89" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyDataModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1624531471449" expanded="true" signature="45:233" ph="{...}" />
+            <marker date="1624531471449" expanded="true" signature="195:231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-56">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <marker date="1624436323285" expanded="false" signature="6:105" ph="..." />
+            <marker date="1624436323285" expanded="true" signature="132:1384" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="178:1382" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="334:801" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="377:797" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="412:489" ph="..." />
+            <marker date="1624436323285" expanded="true" signature="523:598" ph="..." />
+            <marker date="1624436323285" expanded="true" signature="631:707" ph="..." />
+            <marker date="1624436323285" expanded="true" signature="720:792" ph="..." />
+            <marker date="1624436323285" expanded="true" signature="882:981" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="1043:1130" ph="{...}" />
+            <marker date="1624436323285" expanded="true" signature="1178:1379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/HolographyPresenter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1624532013155" expanded="true" signature="45:105" ph="{...}" />
+            <marker date="1624532013155" expanded="true" signature="96:103" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter3/Chapter3-ExtraScript/Holography.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <folding>
+            <marker date="1624531528396" expanded="false" signature="6:34" ph="..." />
+            <marker date="1624531528396" expanded="true" signature="61:646" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="87:579" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="222:251" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="281:294" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="375:489" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="545:576" ph="{...}" />
+            <marker date="1624531528396" expanded="true" signature="609:644" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

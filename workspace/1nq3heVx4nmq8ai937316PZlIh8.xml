@@ -1,0 +1,181 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/QuickSheet/ExcelPlugin/Editor/ExcelQuery.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding>
+                <marker date="1612103213818" expanded="true" signature="0:216" ph="///////////////////////////////////////////////////////////////////////////////..." />
+                <marker date="1612103213818" expanded="true" signature="223:478" ph="..." />
+                <marker date="1612103213818" expanded="true" signature="505:10706" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="512:660" ph="/// Query each of cell data from the given excel sheet and deserialize it to the ScriptableObject's data array. ... " />
+                <marker date="1612103213818" expanded="true" signature="688:10704" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="850:911" ph="/// Constructor. ... " />
+                <marker date="1612103213818" expanded="true" signature="973:2192" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="999:2079" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="1152:2065" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="1369:1650" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="1675:1779" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="2111:2182" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="2202:2315" ph="/// Determine whether the excel file is successfully read in or not. ... " />
+                <marker date="1612103213818" expanded="true" signature="2345:2482" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="2492:2596" ph="/// Retrieves file extension only from the given file path. ... " />
+                <marker date="1612103213818" expanded="true" signature="2641:2796" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="2845:3050" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="3060:3321" ph="/// Deserialize all the cell of the given sheet. ... " />
+                <marker date="1612103213818" expanded="true" signature="3374:4778" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="3576:4740" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="3627:3747" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="3858:4663" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="4010:4645" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="4060:4260" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="4304:4623" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="4788:4863" ph="/// Retrieves all sheet names. ... " />
+                <marker date="1612103213818" expanded="true" signature="4903:5448" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="5009:5253" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="5137:5239" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="5458:5605" ph="/// Retrieves all first columns(aka. header column) which are needed to determine each type of a cell. ... " />
+                <marker date="1612103213818" expanded="true" signature="5667:6569" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="5809:6470" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="5883:6414" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="6023:6188" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="6213:6396" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="6579:6739" ph="/// Convert type of cell value to its predefined type which is specified in the sheet's ScriptMachine setting fil ... " />
+                <marker date="1612103213818" expanded="true" signature="6796:10698" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="6962:8717" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="7049:7136" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="7213:7950" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="8028:8703" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="8772:9206" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="8803:8997" ph="/* HACK: handles the case that a cell contains numeric value ... */" />
+                <marker date="1612103213818" expanded="true" signature="9386:9511" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="9538:9759" ph="{...}" />
+                <marker date="1612103213818" expanded="true" signature="9791:10570" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="201" y="126" width="1920" height="1075" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="333000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25701943" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/QuickSheet/ExcelPlugin/Editor/ExcelQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <marker date="1612103213818" expanded="true" signature="0:216" ph="///////////////////////////////////////////////////////////////////////////////..." />
+            <marker date="1612103213818" expanded="true" signature="223:478" ph="..." />
+            <marker date="1612103213818" expanded="true" signature="505:10706" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="512:660" ph="/// Query each of cell data from the given excel sheet and deserialize it to the ScriptableObject's data array. ... " />
+            <marker date="1612103213818" expanded="true" signature="688:10704" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="850:911" ph="/// Constructor. ... " />
+            <marker date="1612103213818" expanded="true" signature="973:2192" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="999:2079" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="1152:2065" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="1369:1650" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="1675:1779" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="2111:2182" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="2202:2315" ph="/// Determine whether the excel file is successfully read in or not. ... " />
+            <marker date="1612103213818" expanded="true" signature="2345:2482" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="2492:2596" ph="/// Retrieves file extension only from the given file path. ... " />
+            <marker date="1612103213818" expanded="true" signature="2641:2796" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="2845:3050" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="3060:3321" ph="/// Deserialize all the cell of the given sheet. ... " />
+            <marker date="1612103213818" expanded="true" signature="3374:4778" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="3576:4740" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="3627:3747" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="3858:4663" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="4010:4645" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="4060:4260" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="4304:4623" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="4788:4863" ph="/// Retrieves all sheet names. ... " />
+            <marker date="1612103213818" expanded="true" signature="4903:5448" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="5009:5253" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="5137:5239" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="5458:5605" ph="/// Retrieves all first columns(aka. header column) which are needed to determine each type of a cell. ... " />
+            <marker date="1612103213818" expanded="true" signature="5667:6569" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="5809:6470" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="5883:6414" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="6023:6188" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="6213:6396" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="6579:6739" ph="/// Convert type of cell value to its predefined type which is specified in the sheet's ScriptMachine setting fil ... " />
+            <marker date="1612103213818" expanded="true" signature="6796:10698" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="6962:8717" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="7049:7136" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="7213:7950" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="8028:8703" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="8772:9206" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="8803:8997" ph="/* HACK: handles the case that a cell contains numeric value ... */" />
+            <marker date="1612103213818" expanded="true" signature="9386:9511" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="9538:9759" ph="{...}" />
+            <marker date="1612103213818" expanded="true" signature="9791:10570" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

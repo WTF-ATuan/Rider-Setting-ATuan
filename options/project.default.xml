@@ -1,0 +1,60 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DiscordProjectSettings">
+        <option name="show" value="ASK" />
+        <option name="description" value="" />
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="GitSharedSettings">
+        <option name="FORCE_PUSH_PROHIBITED_PATTERNS">
+          <list />
+        </option>
+      </component>
+      <component name="GithubDefaultAccount">
+        <option name="defaultAccountId" value="06c9e63c-15be-4c82-9bbe-4db4ff3db885" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="ATuan" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Version control</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>IgnoreFileDuplicateEntry</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\ATuan\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

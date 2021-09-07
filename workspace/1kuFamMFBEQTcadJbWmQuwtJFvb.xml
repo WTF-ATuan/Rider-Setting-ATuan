@@ -1,0 +1,148 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/script/StartMenu.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <marker date="1606542769326" expanded="true" signature="6:113" ph="..." />
+                <marker date="1606542769326" expanded="true" signature="153:299" ph="{...}" />
+                <marker date="1606542769326" expanded="true" signature="185:232" ph="{...}" />
+                <marker date="1606542769326" expanded="true" signature="262:297" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/script/Player.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+              <folding>
+                <marker date="1606751730592" expanded="true" signature="6:127" ph="..." />
+                <marker date="1606751730592" expanded="true" signature="164:1363" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="343:393" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="416:500" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="528:755" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="804:861" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="912:993" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="1028:1180" ph="{...}" />
+                <marker date="1606751730592" expanded="true" signature="1215:1360" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_rigidbody2D</find>
+    </findStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.electric/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="69" y="244" width="1533" height="1080" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3829000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3337884" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="6" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="16" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="17" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="IL Viewer" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/script/StartMenu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <marker date="1606542769326" expanded="true" signature="6:113" ph="..." />
+            <marker date="1606542769326" expanded="true" signature="153:299" ph="{...}" />
+            <marker date="1606542769326" expanded="true" signature="185:232" ph="{...}" />
+            <marker date="1606542769326" expanded="true" signature="262:297" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/script/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+          <folding>
+            <marker date="1606751730592" expanded="true" signature="6:127" ph="..." />
+            <marker date="1606751730592" expanded="true" signature="164:1363" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="343:393" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="416:500" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="528:755" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="804:861" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="912:993" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="1028:1180" ph="{...}" />
+            <marker date="1606751730592" expanded="true" signature="1215:1360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

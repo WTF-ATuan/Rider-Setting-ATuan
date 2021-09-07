@@ -1,0 +1,3 @@
+com.codestream.jetbrains-codestream
+com.jetbrains.dotCover
+com.jetbrains.dotTrace

@@ -1,0 +1,1 @@
+{"id":47197,"xmlId":"com.jetbrains.colorful.toolwindow.icons","name":"ToolWindow Colorful Icons","description":"\n      Makes tool window icons colorful.\n    ","organization":"JetBrains s.r.o.","tags":["User Interface"],"vendor":"JetBrains","version":"1.0","dependencies":["com.intellij.modules.lang"],"since":"182.3341","size":182556}

@@ -1,0 +1,520 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/EnergyStone.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/BaseTimerObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <marker date="1620728727099" expanded="false" signature="6:70" ph="..." />
+                <marker date="1620728727099" expanded="true" signature="97:541" ph="{...}" />
+                <marker date="1620728727099" expanded="true" signature="144:539" ph="{...}" />
+                <marker date="1620728727099" expanded="true" signature="286:315" ph="{...}" />
+                <marker date="1620728727099" expanded="true" signature="358:423" ph="{...}" />
+                <marker date="1620728727099" expanded="true" signature="464:536" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/TimelineSystem/TimelineControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <marker date="1620734932861" expanded="true" signature="6:135" ph="..." />
+                <marker date="1620734932861" expanded="true" signature="168:1105" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="261:1103" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="430:484" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="544:694" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="570:611" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="611:647" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="751:1100" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="783:953" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="823:908" ph="{...}" />
+                <marker date="1620734932861" expanded="true" signature="992:1074" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Plugins/DynamicBone/Demo/DynamicBoneDemo1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <folding>
+                <marker date="1597592953000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1597592953000" expanded="true" signature="91:1831" ph="{...}" />
+                <marker date="1597592953000" expanded="true" signature="191:415" ph="{...}" />
+                <marker date="1597592953000" expanded="true" signature="433:1829" ph="{...}" />
+                <marker date="1597592953000" expanded="true" signature="1388:1823" ph="/* y += h * 2; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8D50764-1622-44B0-A97A-C6ECECE5F7E9/a9/499a694e/PlayableDirector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2928">
+              <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
+              <folding>
+                <marker date="1615102894139" expanded="false" signature="0:334" ph="// Decompiled with JetBrains decompiler..." />
+                <marker date="1615102894139" expanded="false" signature="342:445" ph="..." />
+                <marker date="1615102894139" expanded="true" signature="478:10684" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="483:606" ph="///   &lt;para&gt;Instantiates a PlayableAsset and controls playback of Playable objects.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="803:10682" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="812:923" ph="///   &lt;para&gt;The current playing state of the component. (Read Only)&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="980:1122" ph="///   &lt;para&gt;Controls how the time is incremented when it goes beyond the duration of the playable.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="1168:1251" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="1257:1383" ph="///   &lt;para&gt;The PlayableAsset that is used to instantiate a playable for playback.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="1422:1560" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="1566:1672" ph="///   &lt;para&gt;The PlayableGraph created by the PlayableDirector.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="1743:1882" ph="///   &lt;para&gt;Whether the playable asset will start playing back as soon as the component awakes.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="1910:1999" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="2005:2138" ph="///   &lt;para&gt;Tells the PlayableDirector to evaluate it's PlayableGraph on the next update.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="2208:2514" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="2556:2740" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="2746:3052" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="3117:3330" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="3336:3597" ph="///   &lt;para&gt;Sets the binding of a reference object from a PlayableBinding.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="3735:3842" ph="///   &lt;para&gt;Controls how time is incremented when playing back.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="4004:4225" ph="///   &lt;para&gt;The component's current time. This value is incremented according to the PlayableDirector.timeUpdateM ... " />
+                <marker date="1615102894139" expanded="true" signature="4365:4483" ph="///   &lt;para&gt;The time at which the Playable should start when first played.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="4630:4726" ph="///   &lt;para&gt;The duration of the Playable in seconds.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="4820:4938" ph="///   &lt;para&gt;Evaluates the currently playing Playable at  the current time.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="5028:5334" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="5420:5552" ph="///   &lt;para&gt;Stops playback of the current Playable and destroys the corresponding graph.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="5638:5744" ph="///   &lt;para&gt;Pauses playback of the currently running playable.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="5831:5920" ph="///   &lt;para&gt;Resume playing a paused playable.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="6008:6127" ph="///   &lt;para&gt;Discards the existing PlayableGraph and creates a new instance.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="6221:6380" ph="///   &lt;para&gt;Clears an exposed reference value.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="6485:6727" ph="///   &lt;para&gt;Sets an ExposedReference value.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="7002:7163" ph="///   &lt;para&gt;Returns a binding to a reference object.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="7334:7507" ph="///   &lt;para&gt;Clears the binding of a reference object.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="7668:7773" ph="///   &lt;para&gt;Rebinds each PlayableOutput of the PlayableGraph.&lt;/para&gt; ... " />
+                <marker date="1615102894139" expanded="true" signature="8576:8676" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="9711:9795" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="9870:9954" ph="{...}" />
+                <marker date="1615102894139" expanded="true" signature="10028:10114" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="64" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="64" />
+              <folding>
+                <marker date="1620209825369" expanded="true" signature="6:175" ph="..." />
+                <marker date="1620209825369" expanded="true" signature="202:3560" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="259:3558" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="681:910" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="738:886" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="941:1040" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1107:1143" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1228:1270" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1317:1609" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1357:1380" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1489:1583" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1524:1578" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1659:1871" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="1950:2659" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2076:2564" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2108:2287" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2143:2281" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2347:2491" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2580:2655" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2756:3124" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2785:3120" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="2800:2832" ph="..." />
+                <marker date="1620209825369" expanded="true" signature="2858:3115" ph="..." />
+                <marker date="1620209825369" expanded="true" signature="2864:3103" ph="..." />
+                <marker date="1620209825369" expanded="true" signature="2926:2948" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="3042:3079" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="3176:3478" ph="{...}" />
+                <marker date="1620209825369" expanded="true" signature="3534:3555" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueComponent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <marker date="1619783698830" expanded="false" signature="6:80" ph="..." />
+                <marker date="1619783698830" expanded="true" signature="107:612" ph="{...}" />
+                <marker date="1619783698830" expanded="true" signature="168:610" ph="{...}" />
+                <marker date="1619783698830" expanded="true" signature="398:444" ph="{...}" />
+                <marker date="1619783698830" expanded="true" signature="555:607" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="486" y="0" width="1920" height="1080" extendedState="7" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2-ExtraScript" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Dialogue" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="TimelineSystem" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6970000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550817" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" weight="0.3296134" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Tool/BuildScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1617711408490" expanded="true" signature="41:155" ph="{...}" />
+            <marker date="1617711408490" expanded="true" signature="75:153" ph="{...}" />
+            <marker date="1617711408490" expanded="true" signature="112:150" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/EnergyStone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/LightLineControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/BaseTimerObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <marker date="1620728727099" expanded="false" signature="6:70" ph="..." />
+            <marker date="1620728727099" expanded="true" signature="97:541" ph="{...}" />
+            <marker date="1620728727099" expanded="true" signature="144:539" ph="{...}" />
+            <marker date="1620728727099" expanded="true" signature="286:315" ph="{...}" />
+            <marker date="1620728727099" expanded="true" signature="358:423" ph="{...}" />
+            <marker date="1620728727099" expanded="true" signature="464:536" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1619783698830" expanded="false" signature="6:80" ph="..." />
+            <marker date="1619783698830" expanded="true" signature="107:612" ph="{...}" />
+            <marker date="1619783698830" expanded="true" signature="168:610" ph="{...}" />
+            <marker date="1619783698830" expanded="true" signature="398:444" ph="{...}" />
+            <marker date="1619783698830" expanded="true" signature="555:607" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+          <folding>
+            <marker date="1620196736310" expanded="false" signature="6:100" ph="..." />
+            <marker date="1620196736310" expanded="true" signature="127:1523" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="172:1521" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="651:736" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="770:1312" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="820:1024" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="922:1019" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1080:1308" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1194:1303" ph="{...}" />
+            <marker date="1620196736310" expanded="true" signature="1356:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/TimelineSystem/Camera/CameraBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding>
+            <marker date="1620730934046" expanded="false" signature="6:68" ph="..." />
+            <marker date="1620730934046" expanded="true" signature="118:604" ph="{...}" />
+            <marker date="1620730934046" expanded="true" signature="293:602" ph="{...}" />
+            <marker date="1620730934046" expanded="true" signature="379:421" ph="{...}" />
+            <marker date="1620730934046" expanded="true" signature="443:501" ph="{...}" />
+            <marker date="1620730934046" expanded="true" signature="517:583" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/TimelineSystem/Camera/CameraClip.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding>
+            <marker date="1620469560165" expanded="false" signature="8:79" ph="..." />
+            <marker date="1620469560165" expanded="true" signature="142:581" ph="{...}" />
+            <marker date="1620469560165" expanded="true" signature="292:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Dialogue/DialogueControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="64" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="64" />
+          <folding>
+            <marker date="1620209825369" expanded="true" signature="6:175" ph="..." />
+            <marker date="1620209825369" expanded="true" signature="202:3560" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="259:3558" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="681:910" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="738:886" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="941:1040" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1107:1143" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1228:1270" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1317:1609" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1357:1380" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1489:1583" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1524:1578" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1659:1871" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="1950:2659" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2076:2564" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2108:2287" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2143:2281" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2347:2491" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2580:2655" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2756:3124" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2785:3120" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="2800:2832" ph="..." />
+            <marker date="1620209825369" expanded="true" signature="2858:3115" ph="..." />
+            <marker date="1620209825369" expanded="true" signature="2864:3103" ph="..." />
+            <marker date="1620209825369" expanded="true" signature="2926:2948" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="3042:3079" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="3176:3478" ph="{...}" />
+            <marker date="1620209825369" expanded="true" signature="3534:3555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/TimelineSystem/TimelineComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/54/f373237d/DirectorUpdateMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+          <folding>
+            <marker date="1620734590902" expanded="false" signature="0:328" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1620734590902" expanded="true" signature="361:1496" ph="{...}" />
+            <marker date="1620734590902" expanded="true" signature="366:478" ph="///   &lt;para&gt;Defines what time source is used to update a Director graph.&lt;/para&gt; ... " />
+            <marker date="1620734590902" expanded="true" signature="511:1494" ph="{...}" />
+            <marker date="1620734590902" expanded="true" signature="520:693" ph="///   &lt;para&gt;Update is based on DSP (Digital Sound Processing) clock. Use this for graphs that need to be synchron ... " />
+            <marker date="1620734590902" expanded="true" signature="712:911" ph="///   &lt;para&gt;Update is based on Time.time. Use this for graphs that need to be synchronized on gameplay, and that  ... " />
+            <marker date="1620734590902" expanded="true" signature="930:1173" ph="///   &lt;para&gt;Update is based on Time.unscaledTime. Use this for graphs that need to be updated even when gameplay  ... " />
+            <marker date="1620734590902" expanded="true" signature="1200:1478" ph="///   &lt;para&gt;Update mode is manual. You need to manually call PlayableGraph.Evaluate with your own deltaTime. This ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E8D50764-1622-44B0-A97A-C6ECECE5F7E9/a9/499a694e/PlayableDirector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2928">
+          <caret line="153" column="57" selection-start-line="153" selection-start-column="57" selection-end-line="153" selection-end-column="57" />
+          <folding>
+            <marker date="1615102894139" expanded="false" signature="0:334" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1615102894139" expanded="false" signature="342:445" ph="..." />
+            <marker date="1615102894139" expanded="true" signature="478:10684" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="483:606" ph="///   &lt;para&gt;Instantiates a PlayableAsset and controls playback of Playable objects.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="803:10682" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="812:923" ph="///   &lt;para&gt;The current playing state of the component. (Read Only)&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="980:1122" ph="///   &lt;para&gt;Controls how the time is incremented when it goes beyond the duration of the playable.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="1168:1251" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="1257:1383" ph="///   &lt;para&gt;The PlayableAsset that is used to instantiate a playable for playback.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="1422:1560" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="1566:1672" ph="///   &lt;para&gt;The PlayableGraph created by the PlayableDirector.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="1743:1882" ph="///   &lt;para&gt;Whether the playable asset will start playing back as soon as the component awakes.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="1910:1999" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="2005:2138" ph="///   &lt;para&gt;Tells the PlayableDirector to evaluate it's PlayableGraph on the next update.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="2208:2514" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="2556:2740" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="2746:3052" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="3117:3330" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="3336:3597" ph="///   &lt;para&gt;Sets the binding of a reference object from a PlayableBinding.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="3735:3842" ph="///   &lt;para&gt;Controls how time is incremented when playing back.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="4004:4225" ph="///   &lt;para&gt;The component's current time. This value is incremented according to the PlayableDirector.timeUpdateM ... " />
+            <marker date="1615102894139" expanded="true" signature="4365:4483" ph="///   &lt;para&gt;The time at which the Playable should start when first played.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="4630:4726" ph="///   &lt;para&gt;The duration of the Playable in seconds.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="4820:4938" ph="///   &lt;para&gt;Evaluates the currently playing Playable at  the current time.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="5028:5334" ph="///   &lt;para&gt;Instatiates a Playable using the provided PlayableAsset and starts playback.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="5420:5552" ph="///   &lt;para&gt;Stops playback of the current Playable and destroys the corresponding graph.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="5638:5744" ph="///   &lt;para&gt;Pauses playback of the currently running playable.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="5831:5920" ph="///   &lt;para&gt;Resume playing a paused playable.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="6008:6127" ph="///   &lt;para&gt;Discards the existing PlayableGraph and creates a new instance.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="6221:6380" ph="///   &lt;para&gt;Clears an exposed reference value.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="6485:6727" ph="///   &lt;para&gt;Sets an ExposedReference value.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="7002:7163" ph="///   &lt;para&gt;Returns a binding to a reference object.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="7334:7507" ph="///   &lt;para&gt;Clears the binding of a reference object.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="7668:7773" ph="///   &lt;para&gt;Rebinds each PlayableOutput of the PlayableGraph.&lt;/para&gt; ... " />
+            <marker date="1615102894139" expanded="true" signature="8576:8676" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="9711:9795" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="9870:9954" ph="{...}" />
+            <marker date="1615102894139" expanded="true" signature="10028:10114" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/TimelineSystem/TimelineControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1620734932861" expanded="true" signature="6:135" ph="..." />
+            <marker date="1620734932861" expanded="true" signature="168:1105" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="261:1103" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="430:484" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="544:694" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="570:611" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="611:647" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="751:1100" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="783:953" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="823:908" ph="{...}" />
+            <marker date="1620734932861" expanded="true" signature="992:1074" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/DynamicBone/Demo/DynamicBoneDemo1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <folding>
+            <marker date="1597592953000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1597592953000" expanded="true" signature="91:1831" ph="{...}" />
+            <marker date="1597592953000" expanded="true" signature="191:415" ph="{...}" />
+            <marker date="1597592953000" expanded="true" signature="433:1829" ph="{...}" />
+            <marker date="1597592953000" expanded="true" signature="1388:1823" ph="/* y += h * 2; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

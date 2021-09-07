@@ -1,0 +1,209 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/PowerStone.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1622687820242" expanded="true" signature="6:116" ph="..." />
+                <marker date="1622687820242" expanded="true" signature="143:1287" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="192:1285" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="341:420" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="482:549" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="659:949" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="996:1190" ph="{...}" />
+                <marker date="1622687820242" expanded="true" signature="1217:1281" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Path/GroundPath.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <marker date="1622775999074" expanded="true" signature="6:133" ph="..." />
+                <marker date="1622775999074" expanded="true" signature="156:2549" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="201:2547" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="890:1100" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="918:963" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1006:1058" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1140:1179" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1221:1264" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1332:1353" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1409:1637" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1497:1615" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1561:1610" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1724:1791" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1877:1930" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="1996:2106" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="2171:2274" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="2348:2412" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="2440:2477" ph="{...}" />
+                <marker date="1622775999074" expanded="true" signature="2505:2544" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="0" width="3440" height="1447" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scenes" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2" type="1045f7f1:UnityExplorerNode" />
+              <item name="Chapter2-ExtraScript" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+              <item name="Tool" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="739000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2538553" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/Chapter2/Chapter2-ExtraScript/PowerStone.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1622687820242" expanded="true" signature="6:116" ph="..." />
+            <marker date="1622687820242" expanded="true" signature="143:1287" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="192:1285" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="341:420" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="482:549" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="659:949" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="996:1190" ph="{...}" />
+            <marker date="1622687820242" expanded="true" signature="1217:1281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Tool/Event.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1622776176335" expanded="true" signature="6:44" ph="..." />
+            <marker date="1622776176335" expanded="true" signature="67:71" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Path/GroundPath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1622775999074" expanded="true" signature="6:133" ph="..." />
+            <marker date="1622775999074" expanded="true" signature="156:2549" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="201:2547" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="890:1100" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="918:963" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1006:1058" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1140:1179" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1221:1264" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1332:1353" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1409:1637" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1497:1615" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1561:1610" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1724:1791" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1877:1930" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="1996:2106" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="2171:2274" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="2348:2412" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="2440:2477" ph="{...}" />
+            <marker date="1622775999074" expanded="true" signature="2505:2544" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

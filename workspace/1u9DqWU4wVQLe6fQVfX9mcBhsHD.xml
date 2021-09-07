@@ -1,0 +1,136 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Player/GirlControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+              <folding>
+                <marker date="1624186427636" expanded="true" signature="6:183" ph="..." />
+                <marker date="1624186427636" expanded="true" signature="208:5633" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="269:5631" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="506:1042" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="597:656" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="713:838" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="838:1038" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1083:1223" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1310:1400" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1464:1521" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1559:1584" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1658:1908" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="1997:2272" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="2313:2474" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="2555:2813" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="2896:3154" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="3233:3569" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="3325:3416" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="3623:4211" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="4291:4737" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="4649:4669" ph="/* 傳送到放下的位置 ... */" />
+                <marker date="1624186427636" expanded="true" signature="4855:5488" ph="{...}" />
+                <marker date="1624186427636" expanded="true" signature="5370:5420" ph="/* 傳送到放下的位置(動畫播完) ... */" />
+                <marker date="1624186427636" expanded="true" signature="5544:5628" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" x="1479" y="0" width="1732" height="1431" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="605000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2578125" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="5" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="5" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Player/GirlControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <marker date="1624186427636" expanded="true" signature="6:183" ph="..." />
+            <marker date="1624186427636" expanded="true" signature="208:5633" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="269:5631" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="506:1042" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="597:656" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="713:838" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="838:1038" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1083:1223" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1310:1400" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1464:1521" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1559:1584" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1658:1908" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="1997:2272" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="2313:2474" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="2555:2813" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="2896:3154" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="3233:3569" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="3325:3416" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="3623:4211" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="4291:4737" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="4649:4669" ph="/* 傳送到放下的位置 ... */" />
+            <marker date="1624186427636" expanded="true" signature="4855:5488" ph="{...}" />
+            <marker date="1624186427636" expanded="true" signature="5370:5420" ph="/* 傳送到放下的位置(動畫播完) ... */" />
+            <marker date="1624186427636" expanded="true" signature="5544:5628" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

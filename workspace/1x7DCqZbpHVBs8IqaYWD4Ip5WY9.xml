@@ -4,37 +4,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../2019.4.16f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Path/GroundPath.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-              <folding>
-                <marker date="1631019531065" expanded="true" signature="6:119" ph="..." />
-                <marker date="1631019531065" expanded="true" signature="142:1846" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="186:1844" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="547:658" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="706:827" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="869:912" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="953:1157" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1105:1153" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1223:1307" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1364:1446" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1512:1576" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1639:1714" ph="{...}" />
-                <marker date="1631019531065" expanded="true" signature="1774:1841" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -111,7 +81,6 @@
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -119,46 +88,19 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="71192831:AssetsRootNode" />
             </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Script" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Script" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Main" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Script" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Main" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Turn" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Script" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Main" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="WaterLevel" type="daf7a7f:UnityExplorerFileSystemNode" />
-            </path>
           </expand>
           <select>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="71192831:AssetsRootNode" />
-              <item name="Script" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Main" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="Turn" type="daf7a7f:UnityExplorerFileSystemNode" />
-              <item name="TurnControl.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Plugins" type="daf7a7f:UnityExplorerFileSystemNode" />
             </path>
           </select>
         </subPane>
         <option name="show-project-names" value="true" />
         <option name="show-tilde-folders" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
         <option name="show-project-imports" value="true" />
@@ -166,11 +108,11 @@
         <option name="show-scratches" value="true" />
         <option name="search-dependencies" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124105000" />
+    <option name="totallyTimeSpent" value="124760000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -259,28 +201,6 @@
     <state x="1019" y="445" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2752.1152@0.0.2752.1152" timestamp="1630999724401" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Character/Animation/AnimationPlayer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <marker date="1630124653506" expanded="true" signature="6:127" ph="..." />
-            <marker date="1630124653506" expanded="true" signature="170:2422" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="217:2420" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="459:526" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="559:876" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="684:872" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="938:1271" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="1028:1075" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="1075:1268" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="1348:1515" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="2413:2417" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="1615:1645" ph="{...}" />
-            <marker date="1630124653506" expanded="true" signature="1645:2011" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Path/Component/BasisPathCondition.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1189">
@@ -980,24 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Dialogue/DialogueControl.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-          <folding>
-            <marker date="1630922094246" expanded="true" signature="6:115" ph="..." />
-            <marker date="1630922094246" expanded="true" signature="142:1521" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="199:1519" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="361:484" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="572:721" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="808:1437" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="873:1364" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="1149:1234" ph="{...}" />
-            <marker date="1630922094246" expanded="true" signature="1490:1516" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Tool/SceneObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
@@ -1388,13 +1290,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../2019.4.16f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/HighlightPlusBundle/HighlightPlus/Editor/HighlightProfileEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1023">
+          <caret line="29" column="70" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Dialogue/DialogueControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1630922094246" expanded="true" signature="6:115" ph="..." />
+            <marker date="1630922094246" expanded="true" signature="142:1521" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="199:1519" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="361:484" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="572:721" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="808:1437" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="873:1364" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="1149:1234" ph="{...}" />
+            <marker date="1630922094246" expanded="true" signature="1490:1516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Path/GroundPath.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="231">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <marker date="1631019531065" expanded="true" signature="6:119" ph="..." />
             <marker date="1631019531065" expanded="true" signature="142:1846" ph="{...}" />
@@ -1412,6 +1336,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../2019.4.16f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]" />
     </entry>
   </component>
   <component name="masterDetails">

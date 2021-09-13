@@ -262,7 +262,7 @@
       <i c="4" l="1629861021921" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="2" l="1629701777677" />
+      <i c="3" l="1631467372963" />
     </e>
     <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
       <i c="3" l="1631002407838" />
@@ -277,7 +277,7 @@
       <i c="6" l="1630744997561" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="163" l="1631068551995" />
+      <i c="164" l="1631467405851" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="71" l="1630987613680" />

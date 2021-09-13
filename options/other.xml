@@ -62,7 +62,7 @@
     <property name="evlsprt3.202" value="16" />
     <property name="evlsprt3.212" value="17" />
     <property name="experimentalFeature.editor.reader.mode" value="false" />
-    <property name="file.gist.reindex.count" value="324" />
+    <property name="file.gist.reindex.count" value="325" />
     <property name="fileTypeChangedCounter" value="12" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="ide.updates.previous.build.number" value="RD-212.4746.113" />

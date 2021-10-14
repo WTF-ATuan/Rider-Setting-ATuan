@@ -5,14 +5,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Character/Aggregate/AnimationEventSubscriber.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1485">
-              <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+            <state relative-caret-position="216">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
               <folding>
-                <marker date="1629429329542" expanded="false" signature="6:66" ph="..." />
-                <marker date="1629429329542" expanded="true" signature="99:1557" ph="{...}" />
                 <marker date="1629429329542" expanded="true" signature="193:1555" ph="{...}" />
                 <marker date="1629429329542" expanded="true" signature="434:489" ph="{...}" />
                 <marker date="1629429329542" expanded="true" signature="576:974" ph="{...}" />
@@ -22,6 +20,26 @@
                 <marker date="1629429329542" expanded="true" signature="876:915" ph="{...}" />
                 <marker date="1629429329542" expanded="true" signature="1041:1552" ph="{...}" />
                 <marker date="1629429329542" expanded="true" signature="1338:1487" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/Main/DomainDrivenCore/DomainEventSubscriber.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <marker date="1631981220247" expanded="true" signature="6:104" ph="..." />
+                <marker date="1631981220247" expanded="true" signature="144:1223" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="213:1221" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="405:466" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="525:750" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="639:746" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="847:1218" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="949:1094" ph="{...}" />
+                <marker date="1631981220247" expanded="true" signature="1094:1214" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -40,7 +58,6 @@
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/Script/Main/Character/Event/CharacterEventHandler.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/Main/Path/Aggregate/RouteCreator.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/Main/Path/Aggregate/Path.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/Main/Path/Event/PathEventHandler.cs" />
@@ -91,6 +108,7 @@
       <option value="$PROJECT_DIR$/Assets/Script/Main/WaterLevel/RemainsViewMove.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/Main/WaterLevel/WaterLevelMove.cs" />
       <option value="$PROJECT_DIR$/Assets/Script/Main/Path/GroundPath.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/Main/DomainDrivenCore/DomainEventSubscriber.cs" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -104,7 +122,6 @@
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -169,7 +186,6 @@
         <option name="show-project-names" value="true" />
         <option name="show-tilde-folders" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
         <option name="show-project-imports" value="true" />
@@ -177,10 +193,12 @@
         <option name="show-scratches" value="true" />
         <option name="search-dependencies" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="125399000" />
+    <option name="totallyTimeSpent" value="125572000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -192,8 +210,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14994547" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29854548" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -259,18 +278,17 @@
       <screen x="0" y="0" width="3440" height="1440" />
     </state>
     <state x="1112" y="294" key="Vcs.Push.Dialog.v2/0.0.3440.1440@0.0.3440.1440" timestamp="1629963297810" />
-    <state x="1213" y="0" width="1077" height="1493" key="search.everywhere.popup" timestamp="1630987613712">
-      <screen x="0" y="0" width="3440" height="1440" />
+    <state x="970" y="0" width="1054" height="1195" key="search.everywhere.popup" timestamp="1631981068397">
+      <screen x="0" y="0" width="2752" height="1152" />
     </state>
     <state x="1213" y="0" width="1077" height="1493" key="search.everywhere.popup/0.0.3440.1440@0.0.3440.1440" timestamp="1630987613712" />
+    <state x="970" y="0" width="1054" height="1195" key="search.everywhere.popup/409.-1440.2048.1152/0.0.2752.1152@0.0.2752.1152" timestamp="1631981068397" />
     <state x="1019" y="445" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1630999724401">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>
     <state x="1019" y="445" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.2752.1152@0.0.2752.1152" timestamp="1630999724401" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Dialogue/DialogueBase.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Dialogue/DialogueComponent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Script/MainTests/PathTests/FindPathUseCaseTest.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="656">
@@ -1392,13 +1410,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/ConsolePro/Remote/LiteNetLib/INetEventListener.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Script/Main/Character/Aggregate/AnimationEventSubscriber.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state relative-caret-position="216">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
-            <marker date="1629429329542" expanded="false" signature="6:66" ph="..." />
-            <marker date="1629429329542" expanded="true" signature="99:1557" ph="{...}" />
             <marker date="1629429329542" expanded="true" signature="193:1555" ph="{...}" />
             <marker date="1629429329542" expanded="true" signature="434:489" ph="{...}" />
             <marker date="1629429329542" expanded="true" signature="576:974" ph="{...}" />
@@ -1408,6 +1427,24 @@
             <marker date="1629429329542" expanded="true" signature="876:915" ph="{...}" />
             <marker date="1629429329542" expanded="true" signature="1041:1552" ph="{...}" />
             <marker date="1629429329542" expanded="true" signature="1338:1487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Main/DomainDrivenCore/DomainEventSubscriber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <marker date="1631981220247" expanded="true" signature="6:104" ph="..." />
+            <marker date="1631981220247" expanded="true" signature="144:1223" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="213:1221" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="405:466" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="525:750" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="639:746" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="847:1218" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="949:1094" ph="{...}" />
+            <marker date="1631981220247" expanded="true" signature="1094:1214" ph="{...}" />
           </folding>
         </state>
       </provider>

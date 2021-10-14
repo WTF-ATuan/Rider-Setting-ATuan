@@ -1,0 +1,160 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WindowsFormsApp2/Form1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="656">
+              <caret line="228" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="228" />
+              <folding>
+                <marker date="1633690036265" expanded="true" signature="6:271" ph="..." />
+                <marker date="1633690036265" expanded="true" signature="299:7066" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="339:7064" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="368:423" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="503:524" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="585:617" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="627:984" ph="/* private void fillByToolStripButton_Click(object sender, EventArgs e) ... */" />
+                <marker date="1633690036265" expanded="true" signature="1048:1501" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="1565:2111" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="2175:2735" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="2799:3317" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="3382:4881" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="3846:4784" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="4157:4522" ph="/* 寫法二 ... */" />
+                <marker date="1633690036265" expanded="true" signature="4801:4871" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="4945:5652" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="5408:5478" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="5495:5642" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="5716:7058" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="6251:6321" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="6338:7034" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="6392:6916" ph="{...}" />
+                <marker date="1633690036265" expanded="true" signature="6937:7020" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.WindowsFormsApp2/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApp2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WindowsFormsApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WindowsFormsApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="679000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20141602" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" order="4" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="4" />
+      <window_info anchor="bottom" id="Unit Tests" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="5" />
+      <window_info anchor="bottom" id="Endpoints" order="5" />
+      <window_info anchor="bottom" id="Flow" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="IL Viewer" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WindowsFormsApp2/Form1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="228" lean-forward="true" selection-start-line="189" selection-start-column="12" selection-end-line="228" />
+          <folding>
+            <marker date="1633690036265" expanded="true" signature="6:271" ph="..." />
+            <marker date="1633690036265" expanded="true" signature="299:7066" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="339:7064" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="368:423" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="503:524" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="585:617" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="627:984" ph="/* private void fillByToolStripButton_Click(object sender, EventArgs e) ... */" />
+            <marker date="1633690036265" expanded="true" signature="1048:1501" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="1565:2111" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="2175:2735" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="2799:3317" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="3382:4881" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="3846:4784" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="4157:4522" ph="/* 寫法二 ... */" />
+            <marker date="1633690036265" expanded="true" signature="4801:4871" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="4945:5652" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="5408:5478" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="5495:5642" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="5716:7058" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="6251:6321" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="6338:7034" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="6392:6916" ph="{...}" />
+            <marker date="1633690036265" expanded="true" signature="6937:7020" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

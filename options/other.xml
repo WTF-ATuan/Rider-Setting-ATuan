@@ -17,6 +17,36 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="1yGGRs9XvxjjFBsp2ACBFlRWcUo">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1ynz9OoDh0iTNBwKQfedkMDCehv">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1z27pE5YMO9mqSMIgWRWOEbIEvr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zDjtvzrVslUSwzX3MRaTHYv0wO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zDnwf0kw1rponIJkAxxqSPz9tr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zOJBuTfqeCo7W10CLWIoUOibPn">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="Default (Template) Project">
           <value>
             <ProjectPluginTracker />
@@ -27,22 +57,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ColorChooser.RecentColors" value="255-255-255-255,,,207-156-254-255,,,54-30-30-255,,,13-17-23-255,,,86-156-213-255,,,156-220-254-255,,,0-0-0-255,,,74-74-74-255,,,255-0-0-255,,,177-106-214-255" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65193963" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.43925235" />
     <property name="Debug.Allow.Typing" value="true" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="FileColorsForProjectViewEnabled" value="true" />
     <property name="FileColorsForTabsEnabled" value="true" />
     <property name="FindSplitterProportion" value="0.0" />
-    <property name="InstalledPluginsSearchHistory" value="folder&#10;fold&#10;Napalmpapalam&#10;Icon&#10;git" />
-    <property name="KEYMAP" value="comment&#10;commit&#10;git&#10;comm&#10;close" />
+    <property name="InstalledPluginsSearchHistory" value="File&#10;folder&#10;fold&#10;Napalmpapalam&#10;Icon" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="26" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="2" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="KEYMAP" value="file&#10;commit&#10;command&#10;comment&#10;git" />
     <property name="MarketplacePluginsSearchHistory" value="git&#10;kra&#10;dis&#10;Napalmpapalam&#10;Icon" />
-    <property name="NextRunPlatformUpdateBuild" value="RD-212.5080.71/2021.2.1" />
-    <property name="NextRunPlatformUpdateVersion" value="2021.2.1" />
+    <property name="NextRunPlatformUpdateBuild" value="RD-212.5284.64/2021.2.2" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.2" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
-    <property name="NonModalCommitPromotionState" value="SHOWN" />
+    <property name="NonModalCommitPromotionState" value="ACCEPTED" />
     <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RD.Init.Cfg.2" value="true" />
     <property name="RD.Init.DialogShown.Ide" value="true" />
@@ -50,7 +83,7 @@
     <property name="RD.Switch.Laf" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
     <property name="RiderUnitTestPanelSplitter.Vertical" value="0.49170306" />
-    <property name="SettingsSearchHistory" value="folder&#10;file&#10;font&#10;color&#10;Back" />
+    <property name="SettingsSearchHistory" value="readOnly&#10;File&#10;File pro&#10;location&#10;keymap" />
     <property name="Tutorials.1" value="true" />
     <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
     <property name="UITheme.relaunch" value="true" />
@@ -62,25 +95,30 @@
     <property name="evlsprt3.202" value="16" />
     <property name="evlsprt3.212" value="17" />
     <property name="experimentalFeature.editor.reader.mode" value="false" />
-    <property name="file.gist.reindex.count" value="325" />
+    <property name="file.gist.reindex.count" value="785" />
     <property name="fileTypeChangedCounter" value="12" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="got.it.tooltip.changes.view.toolwindow" value="1" />
     <property name="ide.updates.previous.build.number" value="RD-212.4746.113" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_solution_path" value="D:/unity/project/selfproject" />
-    <property name="last_selected_template" value="Unity Class Library|.NET" />
+    <property name="last_selected_template" value="Empty Solution|" />
     <property name="mt.showStatisticsAgreement" value="true" />
     <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
     <property name="registry.to.advanced.settings.migration.build" value="RD-212.4746.113" />
-    <property name="selected.color.option.type" value="ReSharper.CSHARP_SEMICOLON" />
-    <property name="settings.code.style.selected.tab.C#" value="Line Breaks and Wrapping" />
+    <property name="selected.color.option.type" value="RECENT_LOCATIONS_SELECTION" />
+    <property name="settings.code.style.selected.tab.C#" value="Naming" />
     <property name="settings.code.style.selected.tab.CoffeeScript" value="Spaces" />
     <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
     <property name="settings.code.style.selected.tab.TypeScript" value="Spaces" />
+    <property name="settings.code.style.selected.tab.VB" value="Naming" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="ts.lib.d.ts.version" value="4.3.5" />
     <property name="unity.user.content.model.migrated--7faf0761" value="D:\unity\project\AnitvineV2.0(Gitlab)\anitvine\.idea\.idea.anitvine\.idea" />
+    <property name="unity.user.content.model.migrated-12548975" value="D:\unity\project\Batman-Arkham-Combat\.idea\.idea.Batman-Arkham-Combat\.idea" />
+    <property name="unity.user.content.model.migrated-170973f5" value="D:\unity\project\Shield\.idea\.idea.Shield\.idea" />
+    <property name="unity.user.content.model.migrated-4f558f59" value="D:\unity\project\Networking Test\.idea\.idea.Networking Test\.idea" />
     <property name="unity.user.content.model.migrated-65ccbf5" value="D:\unity\project\Open-Source-Motion-Matching-Practice\.idea\.idea.Open-Source-Motion-Matching-Practice\.idea" />
   </component>
   <component name="ToolbarSettingsService">

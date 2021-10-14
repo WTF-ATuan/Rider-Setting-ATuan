@@ -349,27 +349,75 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/unity/project/Open-Source-Motion-Matching-Practice/Open-Source-Motion-Matching-Practice.sln">
+        <entry key="D:/unity/project/AnitvineV2.0(Gitlab)/anitvine/anitvine.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="Open-Source-Motion-Matching-Practice [D:\unity\project\Open-Source-Motion-Matching-Practice] – …\Assets\Plugins\MotionMatching\Code\MxM\Data\Core\NativeAnimData.cs" projectWorkspaceId="1xfT0hsLOrXmmGd679UcQwIuHya">
+            <RecentProjectMetaInfo frameTitle="anitvine [D:\unity\project\AnitvineV2.0(Gitlab)\anitvine] – …\Assets\Script\Main\DomainDrivenCore\DomainEventSubscriber.cs" projectWorkspaceId="1x7DCqZbpHVBs8IqaYWD4Ip5WY9">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-212.4746.113" />
-              <option name="buildTimestamp" value="1627668272475" />
-              <frame x="-8" y="-8" width="3456" height="1456" extendedState="7" />
+              <option name="buildTimestamp" value="1627668277897" />
+              <frame x="1712" y="0" width="1737" height="1448" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1630744921554" />
+              <option name="projectOpenTimestamp" value="1631981040669" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/unity/project/AnitvineV2.0(Gitlab)/anitvine/anitvine.sln">
+        <entry key="D:/unity/project/Open-Source-Motion-Matching-Practice/Open-Source-Motion-Matching-Practice.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="anitvine [D:\unity\project\AnitvineV2.0(Gitlab)\anitvine] – …\Assets\Script\Main\Character\Aggregate\AnimationEventSubscriber.cs" opened="true" projectWorkspaceId="1x7DCqZbpHVBs8IqaYWD4Ip5WY9">
+            <RecentProjectMetaInfo frameTitle="Open-Source-Motion-Matching-Practice [D:\unity\project\Open-Source-Motion-Matching-Practice] – …\Assets\Plugins\MotionMatching\Code\MxM\Runtime\MxMAnimator\MxMAnimator.cs" projectWorkspaceId="1xfT0hsLOrXmmGd679UcQwIuHya">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-212.4746.113" />
-              <option name="buildTimestamp" value="1627668277013" />
+              <option name="buildTimestamp" value="1627668279375" />
               <frame x="-9" y="-9" width="3458" height="1458" extendedState="6" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1631467377326" />
+              <option name="projectOpenTimestamp" value="1632630639418" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Shield/Shield.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Shield [D:\unity\project\Shield] – …\Assets\Script\Main\SpiderAbility\SpiderThreadBehavior.cs" projectWorkspaceId="1yGGRs9XvxjjFBsp2ACBFlRWcUo">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668268593" />
+              <frame x="-9" y="-9" width="3458" height="1458" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1633013080400" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Batman-Arkham-Combat/Batman-Arkham-Combat.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Batman-Arkham-Combat [D:\unity\project\Batman-Arkham-Combat] – …\Assets\Scripts\EnemyScript.cs" projectWorkspaceId="1zDnwf0kw1rponIJkAxxqSPz9tr">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668270287" />
+              <frame x="622" y="-19" width="2578" height="1440" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1633752822715" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/4_查詢密碼_更新密碼/WindowsFormsApp2/WindowsFormsApp2.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WindowsFormsApp2 [C:\Users\ATuan\Downloads\4_查詢密碼_更新密碼\WindowsFormsApp2] – …\WindowsFormsApp2\Form1.cs" projectWorkspaceId="1zOJBuTfqeCo7W10CLWIoUOibPn">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668255749" />
+              <frame x="654" y="-1474" width="2579" height="1440" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1634013069702" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Networking Test/Networking Test.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Networking Test [D:\unity\project\Networking Test] – …\Assets\Script\Main\Character\CharacterSkill.cs" opened="true" projectWorkspaceId="1ynz9OoDh0iTNBwKQfedkMDCehv">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668256007" />
+              <frame x="400" y="-1449" width="2578" height="1458" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1634179166552" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

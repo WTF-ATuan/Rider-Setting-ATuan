@@ -47,6 +47,11 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="1zTmRIZ0dxqkFveHUSGrAODE08T">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="Default (Template) Project">
           <value>
             <ProjectPluginTracker />
@@ -95,7 +100,7 @@
     <property name="evlsprt3.202" value="16" />
     <property name="evlsprt3.212" value="17" />
     <property name="experimentalFeature.editor.reader.mode" value="false" />
-    <property name="file.gist.reindex.count" value="785" />
+    <property name="file.gist.reindex.count" value="866" />
     <property name="fileTypeChangedCounter" value="12" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.changes.view.toolwindow" value="1" />
@@ -115,6 +120,7 @@
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
     <property name="ts.lib.d.ts.version" value="4.3.5" />
+    <property name="unity.user.content.model.migrated--79e1c641" value="D:\unity\project\Photon-Networking-Project\.idea\.idea.Photon-Networking-Project\.idea" />
     <property name="unity.user.content.model.migrated--7faf0761" value="D:\unity\project\AnitvineV2.0(Gitlab)\anitvine\.idea\.idea.anitvine\.idea" />
     <property name="unity.user.content.model.migrated-12548975" value="D:\unity\project\Batman-Arkham-Combat\.idea\.idea.Batman-Arkham-Combat\.idea" />
     <property name="unity.user.content.model.migrated-170973f5" value="D:\unity\project\Shield\.idea\.idea.Shield\.idea" />

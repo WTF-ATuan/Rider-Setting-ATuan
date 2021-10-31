@@ -411,13 +411,25 @@
         </entry>
         <entry key="D:/unity/project/Networking Test/Networking Test.sln">
           <value>
-            <RecentProjectMetaInfo frameTitle="Networking Test [D:\unity\project\Networking Test] – …\Assets\Script\Main\Character\CharacterSkill.cs" opened="true" projectWorkspaceId="1ynz9OoDh0iTNBwKQfedkMDCehv">
+            <RecentProjectMetaInfo frameTitle="Networking Test [D:\unity\project\Networking Test] – …\Assets\Script\Main\Character\CharacterSkill.cs" projectWorkspaceId="1ynz9OoDh0iTNBwKQfedkMDCehv">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-212.4746.113" />
               <option name="buildTimestamp" value="1627668256007" />
               <frame x="400" y="-1449" width="2578" height="1458" extendedState="6" />
               <option name="productionCode" value="RD" />
               <option name="projectOpenTimestamp" value="1634179166552" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Photon-Networking-Project/Photon-Networking-Project.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Photon-Networking-Project [D:\unity\project\Photon-Networking-Project] – …\Assets\Script\Main\Character\Character.cs" opened="true" projectWorkspaceId="1zTmRIZ0dxqkFveHUSGrAODE08T">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668285700" />
+              <frame x="-9" y="-9" width="3458" height="1458" extendedState="7" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1635565319184" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

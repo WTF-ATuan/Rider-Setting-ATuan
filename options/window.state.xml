@@ -55,7 +55,7 @@
     <size key="GridCell.Tab.3.bottom.0.0.3440.1440@144dpi" width="3377" height="505" />
   </component>
   <component name="WindowManager">
-    <frame x="400" y="-1449" width="2578" height="1458" extendedState="6" />
+    <frame x="-9" y="-9" width="3458" height="1458" extendedState="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -91,16 +91,12 @@
     </state>
     <state x="822" y="61" key="SettingsEditor/0.0.2752.1152" timestamp="1631019915794" />
     <state x="1027" y="76" key="SettingsEditor/0.0.3440.1440" timestamp="1629700257460" />
-    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN" timestamp="1633706263457">
+    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN" timestamp="1634578177064">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>
     <state x="1496" y="594" width="1200" height="900" key="WELCOME_SCREEN/0.0.2752.1152" timestamp="1631019936108" />
     <state x="1720" y="630" width="1200" height="900" key="WELCOME_SCREEN/0.0.3440.1440" timestamp="1629701770167" />
-    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN/409.-1440.2048.1152/0.0.2752.1152" timestamp="1633706263457" />
-    <state x="984" y="365" width="1164" height="515" key="bookmarks" timestamp="1625626343725">
-      <screen x="0" y="0" width="3440" height="1440" />
-    </state>
-    <state x="984" y="365" width="1164" height="515" key="bookmarks/0.0.3440.1440" timestamp="1625626343725" />
+    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN/409.-1440.2048.1152/0.0.2752.1152" timestamp="1634578177064" />
     <state x="1114" y="479" key="ide.config.custom.settings" timestamp="1631019660030">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>

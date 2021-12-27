@@ -52,6 +52,21 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="217D2P62mBwbHkSnpi6EvZuOCbr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="217G7aGaHMTHE1O2PnzwTBKFmea">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="22PVNVEergfeNWvQ4ihrieBQLOp">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="Default (Template) Project">
           <value>
             <ProjectPluginTracker />
@@ -69,30 +84,29 @@
     <property name="FileColorsForProjectViewEnabled" value="true" />
     <property name="FileColorsForTabsEnabled" value="true" />
     <property name="FindSplitterProportion" value="0.0" />
-    <property name="InstalledPluginsSearchHistory" value="File&#10;folder&#10;fold&#10;Napalmpapalam&#10;Icon" />
+    <property name="InstalledPluginsSearchHistory" value="idea&#10;ide&#10;id&#10;i&#10;File" />
     <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="26" />
     <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="2" />
     <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
-    <property name="KEYMAP" value="file&#10;commit&#10;command&#10;comment&#10;git" />
-    <property name="MarketplacePluginsSearchHistory" value="git&#10;kra&#10;dis&#10;Napalmpapalam&#10;Icon" />
+    <property name="KEYMAP" value="git&#10;file&#10;commit&#10;command&#10;comment" />
+    <property name="MarketplacePluginsSearchHistory" value="idea&#10;git&#10;kra&#10;dis&#10;Napalmpapalam" />
     <property name="NextRunPlatformUpdateBuild" value="RD-212.5284.64/2021.2.2" />
     <property name="NextRunPlatformUpdateVersion" value="2021.2.2" />
     <property name="Non.Modal.Commit.Single.Click2" value="true" />
     <property name="Non.Modal.Commit4" value="true" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="NonModalCommitPromotionState" value="ACCEPTED" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
     <property name="RD.Init.Cfg.2" value="true" />
     <property name="RD.Init.DialogShown.Ide" value="true" />
     <property name="RD.Light.Edit.Disabled" value="true" />
     <property name="RD.Switch.Laf" value="true" />
     <property name="RiderUnitTestPanelSplitter.Horizontal" value="0.5" />
     <property name="RiderUnitTestPanelSplitter.Vertical" value="0.49170306" />
-    <property name="SettingsSearchHistory" value="readOnly&#10;File&#10;File pro&#10;location&#10;keymap" />
+    <property name="SettingsSearchHistory" value="keymap&#10;readOnly&#10;File&#10;File pro&#10;location" />
     <property name="Tutorials.1" value="true" />
     <property name="Tutorials.In.Recent.Projects.Disabled" value="true" />
     <property name="UITheme.relaunch" value="true" />
-    <property name="appcds.runOnSecondStart" value="RD-212.4746.113-e27f1f88841f5a9c63f748a2b7c79448f28f5c42c6a29f0b7eaea7fe1c1ca360" />
+    <property name="appcds.runOnSecondStart" value="RD-212.4746.113-72c8989faf4a18967eb756b5f80a7ef5a873fd289b9f4bf11022857f81846550" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
     <property name="com.jetbrains.rider.afterInstall.statsReportedBuilds" value="RD-202.7660.16&#10;RD-202.8194.8&#10;RD-212.4746.113" />
@@ -100,11 +114,12 @@
     <property name="evlsprt3.202" value="16" />
     <property name="evlsprt3.212" value="17" />
     <property name="experimentalFeature.editor.reader.mode" value="false" />
-    <property name="file.gist.reindex.count" value="866" />
+    <property name="file.gist.reindex.count" value="1227" />
     <property name="fileTypeChangedCounter" value="12" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector:com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector:com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.changes.view.toolwindow" value="1" />
     <property name="ide.updates.previous.build.number" value="RD-212.4746.113" />
+    <property name="ideavim.statistics.timestamp" value="1637298696052" />
     <property name="ignoreUltimateEdition" value="true" />
     <property name="last_open_solution_path" value="D:/unity/project/selfproject" />
     <property name="last_selected_template" value="Empty Solution|" />

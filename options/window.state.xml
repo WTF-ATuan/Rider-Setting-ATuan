@@ -3,6 +3,7 @@
     <location key="find.popup.0.0.2560.1440@120dpi" x="686" y="222" />
     <location key="WELCOME_SCREEN.0.0.2560.1440@120dpi" x="68" y="19" />
     <location key="find.popup.0.0.3440.1440@144dpi" x="188" y="90" />
+    <location key="find.popup.0.0.3440.1440@180dpi" x="1108" y="0" />
     <size key="find.popup.0.0.2560.1440@120dpi" width="1188" height="996" />
     <size key="GridCell.Tab.0.left.0.0.2560.1440@120dpi" width="2509" height="265" />
     <size key="GridCell.Tab.0.center.0.0.2560.1440@120dpi" width="2509" height="265" />
@@ -53,9 +54,10 @@
     <size key="GridCell.Tab.3.center.0.0.3440.1440@144dpi" width="3377" height="505" />
     <size key="GridCell.Tab.3.right.0.0.3440.1440@144dpi" width="3377" height="505" />
     <size key="GridCell.Tab.3.bottom.0.0.3440.1440@144dpi" width="3377" height="505" />
+    <size key="find.popup.0.0.3440.1440@180dpi" width="1455" height="1440" />
   </component>
   <component name="WindowManager">
-    <frame x="-9" y="-9" width="3458" height="1458" extendedState="7" />
+    <frame x="-9" y="-9" width="3458" height="1458" extendedState="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -66,40 +68,17 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="1092" y="194" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1631019644010">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state x="1092" y="194" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.2752.1152" timestamp="1631019644010" />
-    <state x="1397" y="315" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1629700326622">
-      <screen x="0" y="0" width="3440" height="1440" />
-    </state>
-    <state x="1397" y="315" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1440" timestamp="1629700326622" />
     <state x="834" y="366" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile" timestamp="1633405387797">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>
     <state x="834" y="366" key="APPLICATION_WIDE_STORE_#rider.projectView.actions.properties.EditPropertiesDialogFile/409.-1440.2048.1152/0.0.2752.1152" timestamp="1633405387797" />
-    <state x="1739" y="936" width="446" height="146" key="ProcessPopupWindow" timestamp="1630999581699">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state x="1739" y="936" width="446" height="146" key="ProcessPopupWindow/0.0.2752.1152" timestamp="1630999581699" />
     <state x="701" y="153" key="Rider.ProjectTemplateDialog.Size" timestamp="1631970065859">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>
     <state x="701" y="153" key="Rider.ProjectTemplateDialog.Size/409.-1440.2048.1152/0.0.2752.1152" timestamp="1631970065859" />
-    <state x="822" y="61" key="SettingsEditor" timestamp="1631019915794">
+    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN" timestamp="1640595578109">
       <screen x="0" y="0" width="2752" height="1152" />
     </state>
-    <state x="822" y="61" key="SettingsEditor/0.0.2752.1152" timestamp="1631019915794" />
-    <state x="1027" y="76" key="SettingsEditor/0.0.3440.1440" timestamp="1629700257460" />
-    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN" timestamp="1634578177064">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state x="1496" y="594" width="1200" height="900" key="WELCOME_SCREEN/0.0.2752.1152" timestamp="1631019936108" />
-    <state x="1720" y="630" width="1200" height="900" key="WELCOME_SCREEN/0.0.3440.1440" timestamp="1629701770167" />
-    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN/409.-1440.2048.1152/0.0.2752.1152" timestamp="1634578177064" />
-    <state x="1114" y="479" key="ide.config.custom.settings" timestamp="1631019660030">
-      <screen x="0" y="0" width="2752" height="1152" />
-    </state>
-    <state x="1114" y="479" key="ide.config.custom.settings/0.0.2752.1152" timestamp="1631019660030" />
+    <state x="1376" y="534" width="1200" height="900" key="WELCOME_SCREEN/409.-1440.2048.1152/0.0.2752.1152" timestamp="1640595578109" />
   </component>
 </application>

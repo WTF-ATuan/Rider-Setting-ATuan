@@ -1,0 +1,52 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1637298894050">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/unity/project/Batman-Arkham-Combat/Assets/Scripts/EnemyScript.cs" timestamp="1637298896984">
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="32" />
+        <mark key="." line="57" column="31" />
+        <mark key="^" line="57" column="32" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">c2Q=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

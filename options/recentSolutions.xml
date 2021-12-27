@@ -385,18 +385,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/unity/project/Batman-Arkham-Combat/Batman-Arkham-Combat.sln">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Batman-Arkham-Combat [D:\unity\project\Batman-Arkham-Combat] – …\Assets\Scripts\EnemyScript.cs" projectWorkspaceId="1zDnwf0kw1rponIJkAxxqSPz9tr">
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="RD-212.4746.113" />
-              <option name="buildTimestamp" value="1627668270287" />
-              <frame x="622" y="-19" width="2578" height="1440" extendedState="6" />
-              <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1633752822715" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Downloads/4_查詢密碼_更新密碼/WindowsFormsApp2/WindowsFormsApp2.sln">
           <value>
             <RecentProjectMetaInfo frameTitle="WindowsFormsApp2 [C:\Users\ATuan\Downloads\4_查詢密碼_更新密碼\WindowsFormsApp2] – …\WindowsFormsApp2\Form1.cs" projectWorkspaceId="1zOJBuTfqeCo7W10CLWIoUOibPn">
@@ -421,15 +409,40 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="D:/unity/project/Photon-Networking-Project/Photon-Networking-Project.sln">
+        <entry key="D:/unity/project/Photon-Networking-Project/Assets/Photon/PhotonBolt">
           <value>
-            <RecentProjectMetaInfo frameTitle="Photon-Networking-Project [D:\unity\project\Photon-Networking-Project] – …\Assets\Script\Main\Character\Character.cs" opened="true" projectWorkspaceId="1zTmRIZ0dxqkFveHUSGrAODE08T">
+            <RecentProjectMetaInfo displayName="PhotonBolt" frameTitle="PhotonBolt [D:\unity\project\Photon-Networking-Project\Assets\Photon\PhotonBolt] – …\BattleProject.json" projectWorkspaceId="22PVNVEergfeNWvQ4ihrieBQLOp">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="RD-212.4746.113" />
-              <option name="buildTimestamp" value="1627668285700" />
-              <frame x="-9" y="-9" width="3458" height="1458" extendedState="7" />
+              <option name="buildTimestamp" value="1627668289426" />
+              <frame x="122" y="-15" width="3440" height="1440" extendedState="6" />
+              <option name="metadata" value="PhotonBolt|" />
               <option name="productionCode" value="RD" />
-              <option name="projectOpenTimestamp" value="1635565319184" />
+              <option name="projectOpenTimestamp" value="1639739169477" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Batman-Arkham-Combat/Batman-Arkham-Combat.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Batman-Arkham-Combat [D:\unity\project\Batman-Arkham-Combat] – …\Assets\Jammo-Character\Scripts\MovementInput.cs" projectWorkspaceId="217G7aGaHMTHE1O2PnzwTBKFmea">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668273987" />
+              <frame x="-9" y="-9" width="3458" height="1458" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1640180264962" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/unity/project/Photon-Networking-Project/Photon-Networking-Project.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Photon-Networking-Project [D:\unity\project\Photon-Networking-Project] – Commit: EditorBuildSettings.asset" opened="true" projectWorkspaceId="1zTmRIZ0dxqkFveHUSGrAODE08T">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-212.4746.113" />
+              <option name="buildTimestamp" value="1627668289969" />
+              <frame x="-9" y="-9" width="3458" height="1458" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1640396881065" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
